@@ -1,0 +1,1001 @@
+AnimalID,Name,Species,BirthDate,Gender,Weight
+1,"Boa, columbian rainbow",Epicrates cenchria maurus,1/17/1998,Female,339.97
+2,Ringtail,Bassariscus astutus,6/3/2020,Female,84.72
+3,Pronghorn,Antilocapra americana,1/26/2021,Female,452.2
+4,"Capuchin, white-fronted",Cebus albifrons,11/14/1996,Male,780.7
+5,"Dog, bush",Speothos vanaticus,7/21/2012,Female,216.6
+6,Asian openbill,Anastomus oscitans,12/15/2020,Female,461.29
+7,Lesser masked weaver,Ploceus intermedius,12/21/1995,Female,769.22
+8,Sulfur-crested cockatoo,Cacatua galerita,9/24/2020,Female,152.83
+9,African lion,Panthera leo,6/16/2005,Female,897.92
+10,Harbor seal,Phoca vitulina,3/24/1995,Female,391.28
+11,"Elephant, asian",Elephas maximus bengalensis,3/15/2004,Female,452.47
+12,Osprey,Pandon haliaetus,3/13/2002,Female,684.79
+13,Laughing dove,Streptopelia senegalensis,2/5/1999,Female,218.71
+14,African darter,Anhinga rufa,4/6/2018,Female,997.5
+15,Giraffe,Giraffe camelopardalis,11/1/2014,Female,941.47
+16,"Reedbuck, bohor",Redunca redunca,11/19/2004,Female,142.3
+17,Snowy owl,Nyctea scandiaca,8/27/2004,Male,581.3
+18,"Jackal, silver-backed",Canis mesomelas,4/4/2004,Male,342.86
+19,"Duck, comb",Sarkidornis melanotos,8/11/2008,Male,357.66
+20,American marten,Martes americana,9/25/2020,Female,600.95
+21,Black bear,Ursus americanus,3/10/2023,Female,581.2
+22,"Francolin, swainson's",Francolinus swainsonii,11/14/1990,Female,600.05
+23,Galapagos albatross,Diomedea irrorata,3/6/1995,Female,659.59
+24,"Antelope, roan",Hippotragus equinus,6/12/2007,Male,453.88
+25,"Baboon, savanna",Papio cynocephalus,1/23/1993,Female,863.23
+26,Giant armadillo,Priodontes maximus,11/25/2007,Female,971.28
+27,"Eland, common",Taurotagus oryx,7/23/2000,Female,430.98
+28,Red-breasted nuthatch,Sitta canadensis,12/7/1991,Male,635.94
+29,Southern boubou,Laniarius ferrugineus,8/3/2018,Female,490.02
+30,Lizard (unidentified),unavailable,3/25/1995,Female,572.35
+31,Eastern fox squirrel,Sciurus niger,10/1/2022,Female,822.16
+32,Striped dolphin,Stenella coeruleoalba,3/12/2009,Male,993.52
+33,Prehensile-tailed porcupine,Coendou prehensilis,9/7/2006,Female,541.32
+34,Bottle-nose dolphin,Tursiops truncatus,5/16/2019,Male,861.66
+35,"Jackal, silver-backed",Canis mesomelas,3/6/2012,Female,297.28
+36,"Cormorant, javanese",Phalacrocorax niger,12/20/1998,Female,48.82
+37,"Magpie, black-backed",Gymnorhina tibicen,6/22/2022,Female,298.57
+38,"Curlew, black",Haematopus ater,3/3/2024,Female,644.97
+39,"Lemming, arctic",Dicrostonyx groenlandicus,9/14/2016,Male,402.44
+40,American buffalo,Bison bison,3/12/2012,Male,723.9
+41,"Turkey, australian brush",Alectura lathami,5/25/2014,Female,842.73
+42,Burmese black mountain tortoise,Manouria emys,1/1/1995,Female,460.79
+43,"Kingfisher, white-throated",Halcyon smyrnesis,4/6/2002,Male,140.18
+44,Blue-footed booby,Sula nebouxii,9/13/2012,Male,126.69
+45,"Skunk, western spotted",Spilogale gracilis,2/6/1995,Female,626.7
+46,"Jaeger, long-tailed",Stercorarius longicausus,5/28/2022,Female,722.19
+47,"Jackal, black-backed",Canis mesomelas,7/31/2024,Male,901.48
+48,"Lion, asian",Panthera leo persica,5/16/1993,Male,351.61
+49,"Sheep, american bighorn",Ovis canadensis,3/11/2023,Male,258.08
+50,Southern brown bandicoot,Isoodon obesulus,4/11/2018,Female,792.46
+51,"Deer, black-tailed",Odocoileus hemionus,12/4/1999,Female,721.69
+52,Eleven-banded armadillo (unidentified),Cabassous sp.,10/17/2010,Female,196.58
+53,Common raccoon,Procyon lotor,3/17/2009,Male,488.97
+54,"Eagle, crowned",Spizaetus coronatus,1/3/2005,Female,365.92
+55,"Flycatcher, tyrant",Myiarchus tuberculifer,1/19/2005,Male,351.57
+56,Cheetah,Acinynox jubatus,8/29/2024,Female,39.18
+57,Glossy starling (unidentified),Lamprotornis sp.,7/30/1999,Female,300.99
+58,"Jacana, african",Actophilornis africanus,5/2/2001,Female,20.54
+59,Tiger,Panthera tigris,8/26/1994,Female,360.11
+60,"Cat, european wild",Felis silvestris lybica,9/29/2018,Female,292.12
+61,Tammar wallaby,Macropus eugenii,11/2/2005,Male,291.84
+62,"Fox, north american red",Vulpes vulpes,10/4/2012,Female,879.93
+63,"Sheep, red",Ovis ammon,3/29/2001,Male,996.88
+64,Violet-crested turaco,Tauraco porphyrelophus,12/17/2013,Female,851.85
+65,Spotted wood sandpiper,Tringa glareola,11/20/1992,Male,939.91
+66,"Bandicoot, long-nosed",Perameles nasuta,10/2/2007,Female,832.2
+67,"Gull, silver",Larus novaehollandiae,4/30/2000,Female,952.17
+68,Galapagos tortoise,Geochelone elephantopus,9/30/2013,Female,751.39
+69,Marine iguana,Amblyrhynchus cristatus,11/2/2014,Female,409.18
+70,"Crab, sally lightfoot",Graspus graspus,9/20/2020,Female,485.85
+71,"Bustard, denham's",Neotis denhami,9/18/2018,Female,453.0
+72,"Baboon, gelada",Theropithecus gelada,5/23/2011,Female,961.79
+73,"Whale, long-finned pilot",Globicephala melas,4/27/2020,Female,177.61
+74,"Squirrel, thirteen-lined",Spermophilus tridecemlineatus,1/26/1994,Male,984.35
+75,Barrows goldeneye,Bucephala clangula,10/3/2019,Female,515.52
+76,Madagascar fruit bat,Pteropus rufus,10/17/2024,Female,760.05
+77,Four-striped grass mouse,Rhabdomys pumilio,2/13/2000,Female,580.78
+78,"Owl, snowy",Nyctea scandiaca,8/11/2013,Male,365.83
+79,"Jackal, asiatic",Canis aureus,12/2/2021,Female,635.66
+80,"Fox, blue",Alopex lagopus,12/31/1991,Male,45.58
+81,Dusky rattlesnake,Crotalus triseriatus,1/29/2016,Female,304.36
+82,African darter,Anhinga rufa,11/18/2018,Female,818.65
+83,"Roadrunner, greater",Geococcyx californianus,5/25/1997,Male,579.86
+84,"Sunbird, lesser double-collared",Nectarinia chalybea,4/3/1996,Female,993.58
+85,"Sheep, stone",Ovis dalli stonei,2/15/2007,Male,280.62
+86,Sockeye salmon,Oncorhynchus nerka,5/1/1993,Male,21.13
+87,"Parakeet, rose-ringed",Psittacula krameri,2/14/1993,Female,736.71
+88,"Heron, black-crowned night",Nycticorax nycticorax,9/8/2013,Female,751.37
+89,Brazilian tapir,Tapirus terrestris,12/2/1995,Male,154.34
+90,"Owl, australian masked",Tyto novaehollandiae,4/16/2022,Female,165.64
+91,Galapagos penguin,Spheniscus mendiculus,11/28/2001,Female,925.2
+92,Southern brown bandicoot,Isoodon obesulus,1/17/2013,Male,423.22
+93,Onager,Equus hemionus,10/14/2000,Female,577.95
+94,"Gull, herring",unavailable,5/18/1999,Female,698.99
+95,Russian dragonfly,Libellula quadrimaculata,12/19/1994,Female,702.45
+96,"Sunbird, lesser double-collared",Nectarinia chalybea,2/5/1995,Male,101.76
+97,Jaguar,Panthera onca,1/30/1990,Female,789.5
+98,Steller's sea lion,Eumetopias jubatus,3/15/2005,Female,609.27
+99,Red-tailed cockatoo,Calyptorhynchus magnificus,3/1/2018,Female,861.67
+100,Kongoni,Alcelaphus buselaphus cokii,8/3/2009,Female,292.6
+101,Arctic fox,Alopex lagopus,3/12/1993,Female,671.19
+102,Red hartebeest,Alcelaphus buselaphus caama,7/30/2017,Female,843.11
+103,"Bee-eater, white-fronted",Merops bullockoides,7/2/2010,Female,676.85
+104,"Camel, dromedary",Camelus dromedarius,6/4/2001,Female,862.73
+105,"Oystercatcher, blackish",Haematopus ater,12/12/2024,Male,732.46
+106,Squirrel glider,Petaurus norfolcensis,2/26/2023,Male,405.23
+107,Southern brown bandicoot,Isoodon obesulus,9/22/2000,Male,412.67
+108,"Toucan, white-throated",Ramphastos tucanus,9/1/2022,Male,445.61
+109,"Eagle, pallas's fish",Haliaeetus leucoryphus,12/20/1994,Female,788.02
+110,White-throated monitor,Varanus albigularis,10/27/2007,Male,249.39
+111,Green heron,Butorides striatus,4/6/2001,Male,467.1
+112,"Fox, blue",Alopex lagopus,9/22/2005,Female,664.14
+113,American buffalo,Bison bison,7/17/1998,Male,689.42
+114,Lappet-faced vulture,Aegypius tracheliotus,11/14/2016,Female,416.54
+115,Eastern cottontail rabbit,Sylvilagus floridanus,2/10/2002,Female,610.05
+116,Dama wallaby,Macropus eugenii,7/9/1992,Female,412.59
+117,"Rat, arboral spiny",Echimys chrysurus,6/30/1996,Female,487.56
+118,Australian spiny anteater,Tachyglossus aculeatus,9/21/2019,Female,62.59
+119,"Starling, red-shouldered glossy",Lamprotornis nitens,4/23/2003,Male,480.54
+120,Red deer,Cervus elaphus,11/20/2002,Female,666.01
+121,"Magpie, black-backed",Gymnorhina tibicen,3/22/2023,Male,782.99
+122,Brown lemur,Lemur fulvus,12/10/1998,Female,630.23
+123,Northern phalarope,Phalaropus lobatus,3/28/2010,Male,827.17
+124,"Swan, black",Cygnus atratus,3/13/2012,Male,495.42
+125,"Porcupine, crested",Hystrix cristata,1/28/2013,Male,436.25
+126,"Dragon, western bearded",Amphibolurus barbatus,3/8/2023,Male,432.67
+127,"Civet, common palm",Paradoxurus hermaphroditus,7/16/1998,Female,513.75
+128,Crab-eating raccoon,Procyon cancrivorus,11/19/2006,Male,715.27
+129,"Badger, american",Taxidea taxus,10/11/2016,Male,775.94
+130,"Whale, southern right",Eubalaena australis,10/7/1994,Female,919.1
+131,Ground legaan,Varanus sp.,11/4/2021,Female,168.14
+132,Bare-faced go away bird,Lorythaixoides concolor,2/18/1992,Female,504.06
+133,"Waxbill, black-cheeked",Estrilda erythronotos,11/21/1997,Male,536.83
+134,"Vulture, white-rumped",Gyps bengalensis,10/26/2018,Male,984.96
+135,Springbok,Antidorcas marsupialis,3/7/2002,Female,985.23
+136,Red-breasted nuthatch,Sitta canadensis,12/20/2015,Male,422.43
+137,Tawny eagle,Anitibyx armatus,9/6/1990,Female,289.83
+138,Swallow-tail gull,Creagrus furcatus,7/22/2000,Female,77.62
+139,Gray heron,Ardea cinerea,6/28/2001,Female,331.91
+140,Ring-tailed possum,Pseudocheirus peregrinus,7/16/2024,Female,646.07
+141,"Fox, arctic",Alopex lagopus,10/2/1995,Female,150.56
+142,Black rhinoceros,Diceros bicornis,8/4/2005,Female,919.86
+143,American woodcock,Scolopax minor,11/18/2020,Male,940.82
+144,Canadian river otter,Lutra canadensis,12/9/2000,Female,595.64
+145,"Caracara, yellow-headed",Milvago chimachima,9/18/2005,Male,748.29
+146,"Deer, black-tailed",Odocoileus hemionus,5/1/2004,Female,893.75
+147,"Cow, scottish highland",Bos taurus,5/8/2024,Female,151.11
+148,Arctic hare,Lepus arcticus,4/2/2017,Female,389.58
+149,"Skua, long-tailed",Stercorarius longicausus,3/16/2005,Male,91.59
+150,Four-horned antelope,Tetracerus quadricornis,10/22/2009,Female,761.44
+151,"Rhinoceros, white",Ceratotherium simum,7/24/2008,Male,805.07
+152,Swallow-tail gull,Creagrus furcatus,11/15/2001,Female,874.38
+153,"Rattlesnake, eastern diamondback",Crotalus adamanteus,8/15/2020,Female,299.34
+154,Northern fur seal,Callorhinus ursinus,4/4/2004,Male,513.76
+155,"Peacock, indian",Pavo cristatus,9/27/2023,Male,171.92
+156,Galapagos sea lion,Zalophus californicus,4/17/1994,Male,939.54
+157,"Albatross, galapagos",Diomedea irrorata,4/24/1992,Male,523.28
+158,"Gazelle, grant's",Gazella granti,12/7/1993,Female,231.65
+159,"Oryx, fringe-eared",Oryx gazella callotis,8/15/2015,Female,279.44
+160,Squirrel glider,Petaurus norfolcensis,7/4/2004,Female,165.53
+161,Hawk-headed parrot,Deroptyus accipitrinus,2/23/2020,Female,450.38
+162,Black-tailed deer,Odocoileus hemionus,9/19/1995,Female,775.85
+163,"Cat, kaffir",Felis silvestris lybica,10/12/2020,Female,722.78
+164,Water moccasin,Agkistrodon piscivorus,11/19/1999,Female,218.66
+165,"Shelduck, european",Tadorna tadorna,1/20/2022,Female,935.02
+166,Buttermilk snake,Coluber constrictor,2/19/2022,Female,480.27
+167,"Lemur, lesser mouse",Microcebus murinus,2/17/2014,Male,610.9
+168,Marine iguana,Amblyrhynchus cristatus,11/12/2017,Male,163.58
+169,"Seal, northern fur",Callorhinus ursinus,3/29/2007,Female,518.0
+170,"Cormorant, large",Phalacrocorax carbo,10/31/2023,Female,370.12
+171,Great cormorant,Phalacrocorax carbo,5/14/1992,Female,715.2
+172,"Langur, hanuman",Semnopithecus entellus,5/29/2003,Male,3.5
+173,"Dove, little brown",Streptopelia senegalensis,4/2/2004,Male,515.13
+174,Burrowing owl,Speotyte cuniculata,4/18/2018,Male,439.33
+175,Snowy sheathbill,Chionis alba,1/24/2007,Female,992.34
+176,Carpet python,Morelia spilotes variegata,1/13/2022,Male,584.07
+177,"Eagle, bald",Haliaeetus leucocephalus,6/2/2018,Male,272.16
+178,"Phalarope, red-necked",Phalaropus lobatus,5/9/2017,Female,775.56
+179,Malabar squirrel,Ratufa indica,3/1/2019,Male,149.65
+180,Agouti,Dasyprocta leporina,11/18/2019,Female,521.67
+181,"Rhinoceros, white",Ceratotherium simum,10/7/1990,Male,305.18
+182,Western palm tanager (unidentified),unavailable,11/24/2015,Female,920.1
+183,Puma,Felis concolor,11/15/2012,Female,529.26
+184,"Lion, steller sea",Eumetopias jubatus,8/1/2016,Male,586.0
+185,White rhinoceros,Ceratotherium simum,2/18/2015,Female,628.3
+186,"Lion, mountain",Felis concolor,8/3/1995,Male,842.9
+187,Scarlet macaw,Ara macao,1/12/1990,Female,902.93
+188,American buffalo,Bison bison,5/1/2024,Female,879.29
+189,White-rumped vulture,Gyps bengalensis,6/16/1993,Male,438.81
+190,Monitor lizard (unidentified),Varanus sp.,6/17/2008,Male,584.81
+191,Ovenbird,Seiurus aurocapillus,9/2/2015,Male,873.12
+192,"Stork, jabiru",Ephippiorhynchus mycteria,11/10/2022,Male,207.27
+193,Vine snake (unidentified),Oxybelis sp.,9/13/2023,Female,518.91
+194,Raccoon dog,Nyctereutes procyonoides,4/9/2017,Male,663.63
+195,Eastern fox squirrel,Sciurus niger,9/19/2005,Female,413.36
+196,"Quail, gambel's",Callipepla gambelii,11/10/2016,Female,94.76
+197,"Cormorant, king",Phalacrocorax albiventer,7/17/1995,Male,543.59
+198,Fork-tailed drongo,Dicrurus adsimilis,5/11/2000,Female,562.51
+199,Brindled gnu,Connochaetus taurinus,12/23/2008,Male,583.65
+200,Western bearded dragon,Amphibolurus barbatus,9/13/2015,Female,586.83
+201,Western patch-nosed snake,Salvadora hexalepis,5/31/2006,Male,687.76
+202,Snake (unidentified),unavailable,5/14/1996,Male,529.84
+203,Little grebe,Tachybaptus ruficollis,10/21/1991,Female,849.17
+204,Small-toothed palm civet,Arctogalidia trivirgata,6/14/2012,Female,114.54
+205,"Ferret, black-footed",Mustela nigripes,11/1/1992,Male,258.65
+206,Mexican wolf,Canis lupus baileyi,6/14/2010,Female,152.31
+207,American racer,Coluber constrictor,1/23/2016,Female,214.17
+208,Blue and gold macaw,Ara ararauna,7/2/2006,Female,574.01
+209,"Jackal, silver-backed",Canis mesomelas,1/9/2016,Male,638.19
+210,"Constrictor, eastern boa",Acrantophis madagascariensis,2/1/2008,Male,804.13
+211,Beisa oryx,Oryx gazella,4/16/1999,Male,337.24
+212,Snow goose,Anser caerulescens,11/28/2011,Female,194.6
+213,"Antelope, roan",Hippotragus equinus,1/5/2020,Female,855.07
+214,Hudsonian godwit,Limosa haemastica,7/12/2000,Male,313.15
+215,"Butterfly, canadian tiger swallowtail",Papilio canadensis,5/28/2012,Female,351.91
+216,Stick insect,Leprocaulinus vipera,10/16/2005,Female,360.96
+217,Barrows goldeneye,Bucephala clangula,3/29/1998,Male,286.4
+218,Kori bustard,Choriotis kori,2/8/2000,Female,320.79
+219,"Dragonfly, russian",Libellula quadrimaculata,1/4/2016,Male,289.63
+220,Black-backed magpie,Gymnorhina tibicen,5/6/2014,Female,267.4
+221,Snowy egret,Egretta thula,10/10/1999,Male,753.6
+222,Grison,Galictis vittata,11/27/1991,Female,130.57
+223,"Crane, black-crowned",Balearica pavonina,9/21/2020,Male,968.07
+224,"Opossum, american virginia",Didelphis virginiana,12/22/2021,Female,367.58
+225,"Macaw, red and blue",Ara chloroptera,6/20/1994,Female,157.54
+226,Kaffir cat,Felis silvestris lybica,10/16/2007,Female,15.72
+227,Native cat,Dasyurus viverrinus,3/2/2010,Female,668.44
+228,Black curlew,Haematopus ater,12/31/1993,Female,925.04
+229,"Tortoise, burmese brown mountain",Manouria emys,6/27/2011,Female,984.66
+230,Bateleur eagle,Terathopius ecaudatus,2/25/2020,Female,177.24
+231,Spotted wood sandpiper,Tringa glareola,4/17/2017,Male,496.12
+232,"Heron, green-backed",Butorides striatus,1/12/2001,Female,379.26
+233,Red-tailed cockatoo,Calyptorhynchus magnificus,6/16/2006,Female,23.62
+234,Indian mynah,Acridotheres tristis,8/7/2008,Female,631.94
+235,"Heron, grey",Ardea cinerea,8/6/2011,Female,441.79
+236,American alligator,Alligator mississippiensis,1/3/2022,Female,372.86
+237,Slender loris,Loris tardigratus,6/20/2022,Female,125.77
+238,"Bandicoot, long-nosed",Perameles nasuta,10/31/1999,Female,354.86
+239,Woodchuck,Marmota monax,11/11/1999,Male,641.53
+240,Bateleur eagle,Terathopius ecaudatus,6/23/2019,Female,309.79
+241,Steller sea lion,Eumetopias jubatus,1/8/2014,Female,490.75
+242,"Legaan, Monitor (unidentified)",Varanus sp.,1/4/2021,Female,25.89
+243,Kirk's dik dik,Madoqua kirkii,10/22/2008,Male,554.3
+244,"Spider, wolf",Lycosa godeffroyi,7/20/2008,Male,773.59
+245,Bare-faced go away bird,Lorythaixoides concolor,9/10/2000,Female,401.7
+246,"Dolphin, striped",Stenella coeruleoalba,12/4/2001,Male,953.94
+247,Red-headed woodpecker,Melanerpes erythrocephalus,2/3/1991,Male,611.04
+248,"Lion, asian",Panthera leo persica,2/13/2023,Female,650.12
+249,Black-crowned night heron,Nycticorax nycticorax,2/4/2017,Male,923.32
+250,"Leopard, indian",Panthera pardus,3/17/1994,Female,500.45
+251,Cape raven,Corvus albicollis,12/10/2016,Female,751.16
+252,Blue-breasted cordon bleu,Uraeginthus angolensis,10/14/2018,Female,122.02
+253,"White-eye, cape",Zosterops pallidus,10/2/2002,Female,2.73
+254,"Pelican, great white",Pelecans onocratalus,4/22/2021,Female,514.34
+255,"Crane, sandhill",Grus canadensis,11/21/2010,Male,85.43
+256,"Jackal, silver-backed",Canis mesomelas,8/7/2015,Male,449.31
+257,American marten,Martes americana,10/7/2005,Male,545.64
+258,Asian water dragon,Physignathus cocincinus,6/14/1990,Female,804.33
+259,Brown antechinus,Antechinus flavipes,3/2/1997,Female,253.63
+260,Onager,Equus hemionus,5/7/2019,Female,321.15
+261,American badger,Taxidea taxus,3/1/2019,Male,642.65
+262,"Glider, squirrel",Petaurus norfolcensis,4/19/2016,Female,998.11
+263,"Dunnart, fat-tailed",Smithopsis crassicaudata,12/8/2019,Female,442.54
+264,Indian giant squirrel,Ratufa indica,10/19/2024,Male,707.04
+265,"Otter, oriental short-clawed",Aonyx cinerea,3/13/2000,Female,209.83
+266,African fish eagle,Haliaetus vocifer,3/29/2006,Male,194.45
+267,Spotted-tailed quoll,Dasyurus maculatus,3/16/2019,Female,485.19
+268,"Albatross, waved",Diomedea irrorata,1/5/2024,Male,841.55
+269,Laughing kookaburra,Dacelo novaeguineae,5/14/2012,Male,25.42
+270,Grant's gazelle,Gazella granti,12/11/2009,Female,10.86
+271,Green-winged trumpeter,Psophia viridis,12/13/1999,Male,400.95
+272,Nine-banded armadillo,Dasypus novemcinctus,4/18/2023,Female,36.65
+273,"Alligator, american",Alligator mississippiensis,3/15/2020,Female,216.17
+274,American buffalo,Bison bison,9/16/2005,Female,189.57
+275,"Francolin, swainson's",Francolinus swainsonii,6/18/2009,Male,985.88
+276,Golden eagle,Aquila chrysaetos,1/9/2023,Male,998.48
+277,"Flamingo, lesser",Phoeniconaias minor,7/19/2012,Female,483.13
+278,"Starling, superb",Lamprotornis superbus,8/30/2022,Female,314.68
+279,Common boubou shrike,Laniarius ferrugineus,2/25/2010,Male,957.63
+280,European shelduck,Tadorna tadorna,2/24/2005,Female,378.02
+281,Red-tailed hawk,Buteo jamaicensis,6/24/2013,Male,826.19
+282,"Lourie, grey",Lorythaixoides concolor,5/11/2012,Female,843.82
+283,"Buffalo, american",Bison bison,3/13/2016,Male,184.06
+284,"Marten, american",Martes americana,4/9/1990,Male,264.88
+285,Steenbuck,Raphicerus campestris,3/5/2001,Female,957.8
+286,Gemsbok,Oryx gazella,6/23/1998,Male,637.0
+287,"Bulbul, african red-eyed",Pycnonotus nigricans,5/8/2007,Female,853.0
+288,"Macaw, red and blue",Ara chloroptera,3/5/2012,Male,324.8
+289,Leadbeateri's ground hornbill,Bucorvus leadbeateri,3/26/2016,Male,367.95
+290,Red-headed woodpecker,Melanerpes erythrocephalus,1/17/2000,Male,233.34
+291,Greater kudu,Tragelaphus strepsiceros,5/12/2008,Female,255.88
+292,Blackbuck,Antilope cervicapra,2/24/1996,Female,152.82
+293,"Dove, emerald-spotted wood",Turtur chalcospilos,3/7/1996,Female,573.74
+294,Red-breasted cockatoo,Eolophus roseicapillus,5/24/2001,Male,269.83
+295,Indian jackal,Canis aureus,1/29/2013,Female,100.81
+296,"Chipmunk, least",Eutamias minimus,7/22/2002,Male,374.34
+297,Northern elephant seal,Mirounga angustirostris,4/22/2021,Female,448.96
+298,Blue-tongued lizard,Tiliqua scincoides,10/14/2015,Male,225.95
+299,Red and blue macaw,Ara chloroptera,7/25/2009,Male,345.32
+300,Indian peacock,Pavo cristatus,10/6/2017,Female,537.08
+301,"Rhea, common",Rhea americana,6/14/2016,Male,89.09
+302,"Turkey, wild",Meleagris gallopavo,6/9/2007,Female,435.88
+303,"Bird, pied butcher",Cracticus nigroagularis,1/10/2023,Female,909.3
+304,"Jackal, asiatic",Canis aureus,4/1/2000,Male,803.65
+305,Little grebe,Tachybaptus ruficollis,11/17/1990,Female,105.79
+306,Red and blue macaw,Ara chloroptera,3/8/2002,Female,63.79
+307,"Beaver, european",Castor fiber,7/23/1991,Female,521.23
+308,"Heron, grey",Ardea cinerea,10/23/2008,Female,926.66
+309,"Wallaby, bennett's",Macropus rufogriseus,8/10/2006,Male,188.15
+310,Radiated tortoise,Geochelone radiata,11/14/2007,Female,251.29
+311,Two-toed sloth,Choloepus hoffmani,7/3/2003,Female,241.66
+312,"Duck, mountain",Hymenolaimus malacorhynchus,12/20/2018,Female,831.05
+313,"Sandpiper, spotted wood",Tringa glareola,3/26/2018,Female,102.82
+314,Sulfur-crested cockatoo,Cacatua galerita,6/14/2003,Male,52.96
+315,African jacana,Actophilornis africanus,5/8/2010,Male,560.35
+316,Red-breasted cockatoo,Eolophus roseicapillus,3/29/2012,Male,224.74
+317,"Pheasant, common",Phasianus colchicus,12/13/2013,Male,17.69
+318,"Pintail, bahama",Anas bahamensis,11/3/1997,Female,528.1
+319,"Fox, north american red",Vulpes vulpes,6/3/2008,Female,192.42
+320,"Hornbill, yellow-billed",Tockus flavirostris,1/3/2012,Male,331.39
+321,Griffon vulture,Gyps fulvus,11/10/2006,Male,903.61
+322,Huron,Galictis vittata,9/3/1991,Male,914.6
+323,Toddy cat,Paradoxurus hermaphroditus,9/11/2006,Female,919.55
+324,Neotropic cormorant,Phalacrocorax brasilianus,7/2/2015,Female,938.42
+325,"Screamer, crested",Chauna torquata,9/19/2002,Male,94.89
+326,Mocking cliffchat,Thamnolaea cinnmomeiventris,9/2/2003,Female,154.87
+327,"Shark, blue",Prionace glauca,4/5/2022,Female,678.42
+328,Tasmanian devil,Sarcophilus harrisii,8/1/1992,Male,822.0
+329,"Sloth, two-toed",Choloepus hoffmani,6/28/2020,Male,105.49
+330,Eastern indigo snake,Drymarchon corias couperi,9/19/2003,Male,102.72
+331,"Snake, eastern indigo",Drymarchon corias couperi,11/25/2022,Female,421.59
+332,Australian spiny anteater,Tachyglossus aculeatus,5/16/2018,Male,649.08
+333,Red-knobbed coot,Fulica cristata,6/30/2007,Female,218.24
+334,"Mongoose, small indian",Herpestes javanicus,5/31/2011,Male,50.98
+335,African lion,Panthera leo,6/27/2016,Male,889.8
+336,Indian mynah,Acridotheres tristis,7/22/2004,Male,429.39
+337,Crab-eating fox,Dusicyon thous,4/16/2020,Female,517.54
+338,"Waxbill, blue",Uraeginthus angolensis,8/12/1992,Male,330.5
+339,"Hawk, red-tailed",Buteo jamaicensis,2/3/2004,Female,667.07
+340,"Nutcracker, clark's",Nucifraga columbiana,9/24/2013,Female,144.5
+341,Euro wallaby,Macropus robustus,6/29/2005,Female,538.28
+342,"Cormorant, great",Phalacrocorax carbo,8/6/2007,Female,846.91
+343,Currasow (unidentified),Crax sp.,8/2/2008,Female,780.86
+344,"Polecat, african",Ictonyx striatus,12/5/2023,Male,682.69
+345,"Grouse, greater sage",Centrocercus urophasianus,10/23/2024,Female,233.08
+346,Galapagos hawk,Buteo galapagoensis,6/3/1992,Female,285.08
+347,Turkey vulture,Cathartes aura,3/25/2011,Male,676.52
+348,Old world fruit bat (unidentified),unavailable,3/23/2021,Female,288.4
+349,Indian leopard,Panthera pardus,6/5/1998,Female,386.13
+350,Common wallaroo,Macropus robustus,4/13/1997,Female,464.57
+351,"Stork, marabou",Leptoptilos crumeniferus,9/18/2015,Male,491.42
+352,"Trotter, lily",Actophilornis africanus,1/10/2001,Male,537.45
+353,"Gazelle, grant's",Gazella granti,5/24/2022,Female,683.43
+354,"Eland, common",Taurotagus oryx,7/6/2017,Female,656.98
+355,Yellow-billed hornbill,Tockus flavirostris,3/20/1997,Female,965.8
+356,"Parakeet, rose-ringed",Psittacula krameri,11/27/1997,Female,845.17
+357,"Bleu, red-cheeked cordon",Uraeginthus bengalus,10/22/2018,Male,983.49
+358,"Goose, cape barren",Cereopsis novaehollandiae,1/26/2005,Female,696.16
+359,"Waterbuck, common",Kobus defassa,12/16/2023,Female,516.79
+360,"Brocket, brown",Mazama gouazoubira,3/6/2018,Male,568.49
+361,Collared lizard,Crotaphytus collaris,12/22/2019,Male,194.12
+362,King cormorant,Phalacrocorax albiventer,12/5/1994,Male,787.23
+363,Four-striped grass mouse,Rhabdomys pumilio,3/19/1991,Male,57.69
+364,Common wallaroo,Macropus robustus,11/30/1992,Male,764.13
+365,Defassa waterbuck,Kobus defassa,7/7/2005,Male,341.11
+366,"Coot, red-knobbed",Fulica cristata,9/24/1998,Female,52.47
+367,Green-winged macaw,Ara chloroptera,11/29/2013,Male,415.34
+368,"Drongo, fork-tailed",Dicrurus adsimilis,8/21/1991,Male,103.41
+369,Little brown bat,Myotis lucifugus,5/26/2003,Male,279.77
+370,"Grouse, sage",Centrocercus urophasianus,7/20/2024,Male,873.91
+371,Grant's gazelle,Gazella granti,5/26/2009,Female,201.85
+372,Fisher,Martes pennanti,7/24/1994,Male,22.28
+373,Kongoni,Alcelaphus buselaphus cokii,7/19/1991,Male,853.63
+374,"Magpie, australian",Gymnorhina tibicen,9/6/2018,Male,171.4
+375,White-fronted capuchin,Cebus albifrons,9/15/1997,Male,902.18
+376,"Shelduck, european",Tadorna tadorna,11/7/1994,Male,753.71
+377,"Lion, steller sea",Eumetopias jubatus,11/11/2008,Male,943.84
+378,"Cormorant, king",Phalacrocorax albiventer,1/10/2023,Male,149.21
+379,Blue-footed booby,Sula nebouxii,8/11/2023,Female,998.01
+380,Eastern grey kangaroo,Macropus giganteus,6/25/2001,Female,236.43
+381,Galapagos penguin,Spheniscus mendiculus,5/14/1994,Female,0.82
+382,"Deer, mule",Odocoileus hemionus,11/7/2007,Male,474.0
+383,Guanaco,Lama guanicoe,7/10/2001,Female,15.35
+384,Wild water buffalo,Bubalus arnee,12/6/2023,Female,372.63
+385,White-winged dove,Zenaida asiatica,11/5/1995,Male,186.28
+386,"Macaque, bonnet",Macaca radiata,8/16/1996,Male,139.36
+387,Nilgai,Boselaphus tragocamelus,9/7/2016,Male,123.81
+388,Brazilian tapir,Tapirus terrestris,10/29/2011,Female,648.59
+389,African ground squirrel (unidentified),Xerus sp.,4/21/2008,Male,423.07
+390,Southern right whale,Eubalaena australis,2/2/2009,Male,925.97
+391,"Lizard, desert spiny",Sceloporus magister,6/19/2002,Male,620.95
+392,"Otter, african clawless",Aonyx capensis,10/18/2003,Female,837.31
+393,"Stork, white-necked",Ciconia episcopus,6/29/2017,Female,843.19
+394,"Wombat, common",Vombatus ursinus,2/6/1994,Female,97.67
+395,"Jackal, golden",Canis aureus,1/4/1991,Male,124.22
+396,"Cat, jungle",Felis chaus,11/4/1996,Female,153.09
+397,"Cat, civet",Bassariscus astutus,5/31/1993,Male,371.56
+398,"Nutcracker, clark's",Nucifraga columbiana,1/5/2020,Male,721.46
+399,"Deer, red",Cervus elaphus,10/11/2001,Male,859.1
+400,Roseat flamingo,Phoenicopterus ruber,12/12/2020,Female,123.25
+401,"Wildebeest, blue",Connochaetus taurinus,6/21/1998,Male,38.33
+402,European stork,Ciconia ciconia,3/6/1996,Male,501.25
+403,Brazilian tapir,Tapirus terrestris,4/17/2018,Male,496.65
+404,Long-tailed skua,Stercorarius longicausus,7/16/2002,Male,450.97
+405,Springbok,Antidorcas marsupialis,2/3/2000,Male,79.81
+406,"Lion, asian",Panthera leo persica,11/4/2010,Male,344.92
+407,Asian water buffalo,Bubalus arnee,8/1/1997,Female,879.49
+408,Agouti,Dasyprocta leporina,2/21/2000,Female,485.63
+409,"Macaw, scarlet",Ara macao,4/24/2013,Male,119.44
+410,"Lion, galapagos sea",Zalophus californicus,6/4/2004,Female,854.81
+411,Wild water buffalo,Bubalus arnee,7/2/2023,Male,153.35
+412,"Crow, pied",Corvus albus,3/23/2009,Male,939.31
+413,Spotted hyena,Crocuta crocuta,4/20/2023,Male,409.16
+414,"Kookaburra, laughing",Dacelo novaeguineae,10/9/2010,Female,656.84
+415,Brindled gnu,Connochaetus taurinus,1/27/1991,Female,626.22
+416,Southern screamer,Chauna torquata,6/24/1999,Female,4.53
+417,"Fox, crab-eating",Dusicyon thous,4/13/2008,Male,250.17
+418,"Bird, secretary",Sagittarius serpentarius,6/3/2003,Female,953.86
+419,European red squirrel,Sciurus vulgaris,7/21/2010,Female,338.37
+420,White-fronted bee-eater,Merops bullockoides,8/6/2015,Female,531.61
+421,"Pelican, great white",Pelecans onocratalus,11/14/2022,Male,542.76
+422,Mule deer,Odocoileus hemionus,3/4/2022,Male,52.46
+423,"Stork, openbill",Anastomus oscitans,8/14/2014,Female,870.48
+424,"Owl, madagascar hawk",Ninox superciliaris,5/6/1995,Male,479.63
+425,Madagascar fruit bat,Pteropus rufus,5/20/2017,Male,117.01
+426,"Langur, gray",Semnopithecus entellus,4/4/1993,Male,591.23
+427,"Lemming, collared",Dicrostonyx groenlandicus,2/10/2005,Male,257.81
+428,"Tortoise, burmese black mountain",Manouria emys,9/3/1995,Female,827.05
+429,"Sheathbill, snowy",Chionis alba,11/24/1995,Male,135.04
+430,"Grenadier, purple",Uraeginthus granatina,7/4/1994,Female,874.89
+431,Civet cat,Bassariscus astutus,3/15/2023,Male,731.55
+432,"Macaw, scarlet",Ara macao,9/14/1996,Male,607.59
+433,Savanna baboon,Papio cynocephalus,8/17/1991,Male,363.46
+434,Ring-tailed possum,Pseudocheirus peregrinus,10/16/2020,Male,508.73
+435,"Cat, jungle",Felis chaus,10/30/2022,Male,406.6
+436,Agile wallaby,Macropus agilis,12/11/1993,Female,142.6
+437,Red-shouldered glossy starling,Lamprotornis nitens,3/3/2002,Male,942.11
+438,White-headed vulture,Aegypius occipitalis,7/30/2008,Female,642.73
+439,"Bird, secretary",Sagittarius serpentarius,9/4/1993,Female,603.77
+440,Chacma baboon,Papio ursinus,7/6/1990,Female,708.6
+441,"Macaque, bonnet",Macaca radiata,10/4/2004,Female,476.55
+442,Blue peacock,Pavo cristatus,12/5/2018,Female,840.81
+443,"Tarantula, salmon pink bird eater",Lasiodora parahybana,12/11/1996,Female,187.08
+444,Black-throated butcher bird,Cracticus nigroagularis,4/30/2024,Female,458.31
+445,"Wagtail, african pied",Motacilla aguimp,12/31/2013,Male,858.75
+446,Common pheasant,Phasianus colchicus,2/5/1999,Male,557.99
+447,Blue peacock,Pavo cristatus,10/27/2015,Male,820.08
+448,"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,12/23/1998,Male,952.04
+449,"Tortoise, indian star",Geochelone elegans,7/26/2014,Male,403.17
+450,Red-winged blackbird,Agelaius phoeniceus,7/17/2001,Male,759.63
+451,Ring-necked pheasant,Phasianus colchicus,10/26/2012,Male,391.95
+452,Whip-tailed wallaby,Macropus parryi,3/22/2023,Female,352.56
+453,African ground squirrel (unidentified),Xerus sp.,4/25/2019,Female,756.22
+454,Great white pelican,Pelecans onocratalus,9/11/2000,Female,515.49
+455,Rock dove,Columba livia,2/16/1996,Female,819.97
+456,"Bat, little brown",Myotis lucifugus,4/6/2001,Male,695.53
+457,Llama,Lama glama,3/5/2001,Female,453.1
+458,"Cat, native",Dasyurus viverrinus,10/31/2011,Male,68.16
+459,Snowy owl,Nyctea scandiaca,4/28/2011,Male,671.0
+460,Ring-tailed lemur,Lemur catta,8/16/1999,Female,262.45
+461,Nubian bee-eater,Merops nubicus,7/17/1994,Male,140.44
+462,"Skunk, striped",Mephitis mephitis,7/28/1998,Male,666.77
+463,Chuckwalla,Sauromalus obesus,9/28/1997,Female,121.28
+464,Long-tailed spotted cat,Felis wiedi or Leopardus weidi,6/5/1994,Male,363.34
+465,Indian star tortoise,Geochelone elegans,9/15/2001,Female,186.22
+466,"Whale, long-finned pilot",Globicephala melas,2/25/2015,Male,331.78
+467,Tasmanian devil,Sarcophilus harrisii,5/31/2007,Female,806.31
+468,Black-necked stork,Ephippiorhynchus mycteria,10/2/1992,Male,890.79
+469,"Rat, desert kangaroo",Dipodomys deserti,6/4/1990,Male,836.23
+470,Southern lapwing,Vanellus chilensis,11/29/1997,Female,54.26
+471,Seven-banded armadillo,Dasypus septemcincus,5/7/2020,Male,439.3
+472,Lily trotter,Actophilornis africanus,3/20/1994,Male,568.86
+473,"Mynah, indian",Acridotheres tristis,4/30/2020,Female,441.63
+474,Springbuck,Antidorcas marsupialis,5/22/2013,Female,49.99
+475,"Rhinoceros, white",Ceratotherium simum,1/27/2003,Female,202.77
+476,Tokay gecko,Gekko gecko,7/25/2015,Male,81.51
+477,"Robin, kalahari scrub",Certotrichas paena,1/24/2007,Female,463.76
+478,"Skua, long-tailed",Stercorarius longicausus,12/27/2023,Male,897.4
+479,Indian jackal,Canis aureus,11/10/1999,Male,127.1
+480,"Kangaroo, red",Macropus rufus,12/6/2008,Female,335.82
+481,"Fox, savanna",Dusicyon thous,4/6/2010,Female,859.71
+482,"Buffalo, asian water",Bubalus arnee,12/11/2007,Female,554.49
+483,"Dragon, frilled",Chlamydosaurus kingii,6/10/2009,Female,743.3
+484,Eastern diamondback rattlesnake,Crotalus adamanteus,6/17/2021,Male,294.53
+485,"Gull, lava",Larus fuliginosus,1/8/2014,Female,469.71
+486,Crimson-breasted shrike,Laniaurius atrococcineus,10/26/2004,Female,569.49
+487,Asian false vampire bat,Megaderma spasma,5/21/2024,Male,284.12
+488,"Cockatoo, slender-billed",Cacatua tenuirostris,9/30/2009,Male,300.77
+489,"Puma, south american",Felis concolor,6/4/1999,Male,854.84
+490,"Sloth, hoffman's",Choloepus hoffmani,11/17/1996,Male,741.15
+491,Red squirrel,Tamiasciurus hudsonicus,4/6/2007,Male,401.24
+492,"Bear, sloth",Melursus ursinus,2/23/2015,Female,861.55
+493,"Baboon, savanna",Papio cynocephalus,12/9/1992,Male,909.74
+494,Collared lizard,Crotaphytus collaris,11/11/2002,Male,922.93
+495,"Hawk, ferruginous",Buteo regalis,6/28/1994,Female,516.93
+496,Kalahari scrub robin,Certotrichas paena,1/7/2011,Male,967.25
+497,Wild boar,Sus scrofa,7/18/2019,Male,308.6
+498,"Wallaby, agile",Macropus agilis,8/16/2009,Female,698.18
+499,"Bunting, crested",Melophus lathami,8/8/2019,Male,245.61
+500,"Crow, house",Corvus brachyrhynchos,3/24/2008,Male,586.34
+501,American Virginia opossum,Didelphis virginiana,4/18/2008,Female,803.21
+502,Southern right whale,Eubalaena australis,7/3/2007,Male,832.22
+503,"Lark, horned",Eremophila alpestris,1/23/2003,Male,704.49
+504,"Weaver, white-browed sparrow",Plocepasser mahali,5/18/2018,Female,51.24
+505,Laughing dove,Streptopelia senegalensis,2/5/2019,Female,748.69
+506,"Phascogale, red-tailed",Phascogale calura,5/28/2002,Male,468.83
+507,"Kangaroo, eastern grey",Macropus giganteus,4/2/2015,Female,566.16
+508,"Anteater, giant",Myrmecophaga tridactyla,5/12/2002,Female,449.85
+509,Blue duck,Hymenolaimus malacorhynchus,8/18/2009,Female,660.49
+510,"Starling, superb",Lamprotornis superbus,7/5/2012,Female,228.93
+511,"Heron, boat-billed",Cochlearius cochlearius,5/27/2005,Female,734.73
+512,Black-tailed tree creeper,Climacteris melanura,3/1/2018,Female,164.47
+513,"Crow, pied",Corvus albus,7/14/2007,Female,417.72
+514,Common zorro,Dusicyon thous,3/5/2021,Male,626.81
+515,"Lapwing, southern",Vanellus chilensis,12/19/2003,Female,465.49
+516,White-browed owl,Ninox superciliaris,1/25/2021,Female,859.39
+517,"Trumpeter, green-winged",Psophia viridis,8/12/1999,Female,682.15
+518,"Baboon, yellow",Papio cynocephalus,9/5/2012,Female,162.52
+519,Caracara (unidentified),unavailable,6/22/2007,Male,171.12
+520,Common langur,Semnopithecus entellus,2/13/2021,Female,922.49
+521,"Heron, gray",Ardea cinerea,8/8/2017,Female,24.33
+522,"Eagle, crowned",Spizaetus coronatus,10/4/1997,Female,722.9
+523,Dama wallaby,Macropus eugenii,2/20/2009,Female,799.73
+524,Prehensile-tailed porcupine,Coendou prehensilis,9/24/2018,Male,415.24
+525,"Fowl, helmeted guinea",Numida meleagris,9/14/2006,Male,635.75
+526,Agouti,Dasyprocta leporina,8/24/1994,Male,835.11
+527,Sacred ibis,Threskionis aethiopicus,7/9/1995,Male,545.75
+528,"Monkey, bleeding heart",Theropithecus gelada,6/19/1995,Male,909.21
+529,"Shelduck, european",Tadorna tadorna,4/8/1992,Female,817.94
+530,"Cockatoo, roseate",Eolophus roseicapillus,10/6/2011,Male,380.45
+531,"Hartebeest, coke's",Alcelaphus buselaphus cokii,12/13/2009,Male,638.54
+532,Yellow-brown sungazer,Cordylus giganteus,1/5/2017,Female,623.56
+533,Long-tailed jaeger,Stercorarius longicausus,3/21/1991,Female,687.52
+534,Mara,Dolichitus patagonum,11/12/2006,Female,82.93
+535,"Monitor, white-throated",Varanus albigularis,11/18/2008,Female,529.62
+536,"Owl, snowy",Nyctea scandiaca,9/22/1991,Male,435.54
+537,Long-crested hawk eagle,Lophoaetus occipitalis,7/9/2008,Female,989.71
+538,"Sandgrouse, yellow-throated",Pterocles gutturalis,12/22/2007,Female,328.52
+539,"Porcupine, tree",Coendou prehensilis,10/4/2014,Male,672.58
+540,American buffalo,Bison bison,9/12/2001,Female,845.3
+541,Gambel's quail,Callipepla gambelii,3/14/2015,Female,919.17
+542,"Tapir, brazilian",Tapirus terrestris,1/13/2011,Female,486.09
+543,"Trotter, lily",Actophilornis africanus,11/17/1999,Male,973.97
+544,Sun gazer,Cordylus giganteus,6/14/2000,Male,373.77
+545,Bushpig,Potamochoerus porcus,4/10/1994,Male,949.42
+546,"Kangaroo, black-faced",Macropus fuliginosus,10/13/2013,Female,382.38
+547,"Cormorant, javanese",Phalacrocorax niger,4/19/2003,Female,713.59
+548,Ring-tailed possum,Pseudocheirus peregrinus,12/1/2001,Female,602.06
+549,"Glider, squirrel",Petaurus norfolcensis,2/18/2012,Female,636.72
+550,Common shelduck,Tadorna tadorna,9/5/2014,Male,397.56
+551,Brush-tailed bettong,Bettongia penicillata,11/4/1996,Female,446.44
+552,Netted rock dragon,Ctenophorus ornatus,2/23/1996,Male,689.26
+553,Russian dragonfly,Libellula quadrimaculata,7/25/2007,Female,109.71
+554,California sea lion,Zalophus californicus,2/2/2008,Male,759.84
+555,Blue peacock,Pavo cristatus,8/11/1991,Female,558.98
+556,Grey heron,Ardea cinerea,3/14/2010,Female,861.73
+557,Tsessebe,Damaliscus lunatus,7/9/2013,Male,430.86
+558,Slender-billed cockatoo,Cacatua tenuirostris,12/15/2004,Male,748.03
+559,Tayra,Eira barbata,12/12/2000,Male,975.05
+560,Sloth bear,Melursus ursinus,8/1/2002,Male,92.83
+561,"Tarantula, salmon pink bird eater",Lasiodora parahybana,5/22/2002,Female,248.53
+562,Madagascar hawk owl,Ninox superciliaris,10/20/2016,Male,58.66
+563,Bird (unidentified),unavailable,4/22/1991,Female,289.33
+564,"Elephant, asian",Elephas maximus bengalensis,10/19/2000,Female,897.92
+565,Greater flamingo,Phoenicopterus ruber,7/25/2013,Male,980.48
+566,"Quoll, eastern",Dasyurus viverrinus,9/1/1994,Female,182.58
+567,Sambar,Cervus unicolor,6/8/1998,Female,833.5
+568,"Snake, carpet",Morelia spilotes variegata,9/30/2000,Female,915.61
+569,"Marmot, hoary",Marmota caligata,2/27/2023,Male,30.22
+570,"Drongo, fork-tailed",Dicrurus adsimilis,1/8/2008,Female,952.09
+571,"Lizard, collared",Crotaphytus collaris,8/23/2007,Female,986.65
+572,Coqui partridge,Francolinus coqui,12/11/2013,Female,191.36
+573,"Hornbill, southern ground",Bucorvus leadbeateri,10/6/1997,Male,313.75
+574,Australian magpie,Gymnorhina tibicen,7/31/1999,Male,343.74
+575,Javanese cormorant,Phalacrocorax niger,4/22/1998,Female,987.72
+576,Buttermilk snake,Coluber constrictor,12/11/1992,Male,422.05
+577,Northern phalarope,Phalaropus lobatus,8/17/2014,Male,227.47
+578,"Antelope, four-horned",Tetracerus quadricornis,11/29/2011,Female,954.32
+579,Bennett's wallaby,Macropus rufogriseus,3/8/2009,Female,808.47
+580,"Gecko, barking",Phylurus milli,2/11/2018,Male,978.27
+581,Javanese cormorant,Phalacrocorax niger,10/8/2011,Female,192.48
+582,Tokay gecko,Gekko gecko,11/22/1990,Female,722.24
+583,"Wallaby, dama",Macropus eugenii,7/23/1999,Female,426.95
+584,Square-lipped rhinoceros,Ceratotherium simum,5/5/2013,Female,260.7
+585,"Falcon, prairie",Falco mexicanus,3/6/2020,Male,719.14
+586,"Boa, columbian rainbow",Epicrates cenchria maurus,6/14/2001,Male,183.65
+587,"Dog, black-tailed prairie",Cynomys ludovicianus,2/5/2000,Female,330.79
+588,Black-crowned night heron,Nycticorax nycticorax,4/5/2012,Female,841.89
+589,"Viper, egyptian",Naja haje,8/9/2023,Female,583.16
+590,Four-spotted skimmer,Libellula quadrimaculata,8/8/2015,Male,909.02
+591,"Elephant, asian",Elephas maximus bengalensis,4/18/2002,Female,335.92
+592,"Kangaroo, western grey",Macropus fuliginosus,9/6/2005,Female,847.23
+593,Small Indian mongoose,Herpestes javanicus,12/21/2014,Male,532.17
+594,"Snake, tiger",Notechis semmiannulatus,5/11/2010,Male,787.01
+595,"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,9/7/2023,Male,822.8
+596,Malleefowl,Leipoa ocellata,3/5/1998,Female,140.56
+597,"Boa, cook's tree",Corallus hortulanus cooki,8/29/2003,Male,321.42
+598,"Egret, great",Casmerodius albus,6/10/1991,Female,121.37
+599,"Gecko, barking",Phylurus milli,1/6/1998,Male,627.07
+600,Long-crested hawk eagle,Lophoaetus occipitalis,12/8/2004,Female,213.55
+601,"Boa, cook's tree",Corallus hortulanus cooki,12/2/2006,Female,608.59
+602,"Flycatcher, tyrant",Myiarchus tuberculifer,3/2/2012,Male,126.05
+603,"Beaver, european",Castor fiber,11/25/1996,Female,278.74
+604,Plains zebra,Equus burchelli,3/10/2011,Male,799.3
+605,Polar bear,Ursus maritimus,12/21/2012,Female,178.23
+606,"Weaver, white-browed sparrow",Plocepasser mahali,12/1/2009,Male,243.17
+607,Common turkey,Meleagris gallopavo,6/14/1993,Female,377.35
+608,"Zorro, azara's",Pseudalopex gymnocercus,8/18/2000,Male,353.28
+609,"Tortoise, galapagos",Geochelone elephantopus,8/3/2014,Male,372.15
+610,American beaver,Castor canadensis,9/24/2010,Male,39.5
+611,Silver-backed jackal,Canis mesomelas,3/5/1990,Male,307.81
+612,"Armadillo, giant",Priodontes maximus,7/17/1999,Male,654.2
+613,Cougar,Felis concolor,12/24/2022,Male,637.18
+614,"Lizard, blue-tongued",Tiliqua scincoides,4/29/2024,Female,71.62
+615,Tailless tenrec,Tenrec ecaudatus,3/17/1999,Female,883.29
+616,Bohor reedbuck,Redunca redunca,2/26/1996,Male,934.77
+617,"Hare, arctic",Lepus arcticus,11/27/1995,Female,918.43
+618,"Lemur, sportive",Lepilemur rufescens,8/8/2019,Female,663.25
+619,Boat-billed heron,Cochlearius cochlearius,12/31/2000,Female,368.83
+620,"Opossum, american virginia",Didelphis virginiana,6/22/1993,Female,191.47
+621,Red sheep,Ovis ammon,12/27/2016,Male,79.08
+622,"Squirrel, nelson ground",Ammospermophilus nelsoni,1/28/2015,Female,586.91
+623,Asiatic wild ass,Equus hemionus,10/10/2008,Female,466.94
+624,Water monitor,Varanus salvator,6/10/2011,Male,938.62
+625,Sarus crane,Grus antigone,1/24/1999,Female,306.94
+626,Antelope ground squirrel,Ammospermophilus nelsoni,5/18/1997,Female,770.59
+627,Ring dove,Columba palumbus,10/29/2022,Male,860.03
+628,"Mongoose, javan gold-spotted",Herpestes javanicus,7/23/1993,Male,496.72
+629,Gray rhea,Rhea americana,1/15/2002,Female,46.57
+630,"Sloth, two-toed",Choloepus hoffmani,9/13/2012,Female,898.69
+631,"Vulture, egyptian",Neophron percnopterus,9/23/2019,Female,886.54
+632,"Siskin, pine",Carduelis pinus,11/19/2019,Male,752.66
+633,"Crocodile, nile",Crocodylus niloticus,7/12/2001,Female,53.02
+634,"Macaw, red and blue",Ara chloroptera,10/16/2009,Female,553.69
+635,"Cockatoo, long-billed",Cacatua tenuirostris,1/6/2011,Female,880.52
+636,Elegant crested tinamou,Eudromia elegans,7/31/2004,Male,580.86
+637,Masked booby,Sula dactylatra,1/22/2011,Male,409.1
+638,Hoffman's sloth,Choloepus hoffmani,6/3/2023,Male,104.7
+639,Little cormorant,Phalacrocorax niger,3/27/2005,Female,826.56
+640,"Fox, savanna",Dusicyon thous,8/16/2021,Male,498.79
+641,Hyrax,Dendrohyrax brucel,1/23/2008,Male,748.54
+642,South American puma,Felis concolor,9/10/1999,Female,299.62
+643,Argalis,Ovis ammon,12/14/1990,Female,251.5
+644,Grey heron,Ardea cinerea,5/18/2020,Female,371.36
+645,Australian spiny anteater,Tachyglossus aculeatus,12/15/2003,Female,405.19
+646,Green-backed heron,Butorides striatus,12/1/2008,Female,823.09
+647,Gulls (unidentified),Larus sp.,7/25/2004,Female,352.2
+648,Eastern dwarf mongoose,Helogale undulata,2/3/2021,Female,256.24
+649,"Stork, jabiru",Ephippiorhynchus mycteria,11/26/1990,Male,566.27
+650,Mudskipper (unidentified),unavailable,2/10/1996,Female,475.55
+651,Violet-crested turaco,Tauraco porphyrelophus,1/26/2006,Female,722.22
+652,Tawny eagle,Anitibyx armatus,6/8/2008,Female,816.88
+653,"Insect, stick",Leprocaulinus vipera,12/21/2023,Male,778.28
+654,"Squirrel, richardson's ground",Spermophilus richardsonii,9/12/2011,Female,841.24
+655,Common wombat,Vombatus ursinus,3/23/1998,Female,589.95
+656,European badger,Meles meles,9/8/2023,Male,74.69
+657,"Lourie, grey",Lorythaixoides concolor,9/27/2014,Male,811.53
+658,African lynx,Felis caracal,10/25/2021,Male,412.21
+659,"Seal, common",Phoca vitulina,10/21/2005,Female,276.64
+660,Pale-throated three-toed sloth,Bradypus tridactylus,1/26/1992,Male,636.44
+661,"Boar, wild",Sus scrofa,3/24/2011,Male,85.57
+662,"Monitor, two-banded",Varanus salvator,8/23/2014,Female,58.59
+663,"Gull, silver",Larus novaehollandiae,5/7/2020,Female,949.27
+664,Impala,Aepyceros mylampus,6/25/2015,Female,898.98
+665,Tree porcupine,Coendou prehensilis,4/15/2022,Male,211.21
+666,Tsessebe,Damaliscus lunatus,11/3/1996,Female,10.33
+667,"Racer, american",Coluber constrictor,2/26/1990,Female,342.56
+668,Grison,Galictis vittata,9/29/1994,Male,139.21
+669,"Vulture, egyptian",Neophron percnopterus,3/5/2010,Female,226.35
+670,"Squirrel, indian giant",Ratufa indica,3/1/1991,Female,235.39
+671,Slender loris,Loris tardigratus,5/22/2001,Male,964.87
+672,Common ringtail,Pseudocheirus peregrinus,4/24/1999,Female,692.25
+673,"Dragon, ornate rock",Ctenophorus ornatus,4/24/2024,Female,125.9
+674,"Turtle, eastern box",Terrapene carolina,2/17/2020,Male,465.88
+675,Smith's bush squirrel,Paraxerus cepapi,10/30/2022,Female,871.13
+676,"Squirrel, african bush",Paraxerus cepapi,5/7/1999,Female,474.36
+677,"Hawk-eagle, crowned",Spizaetus coronatus,4/18/2013,Female,786.75
+678,Eastern indigo snake,Drymarchon corias couperi,5/17/2012,Male,25.39
+679,"Squirrel, red",Tamiasciurus hudsonicus,11/18/2010,Male,803.77
+680,Wild boar,Sus scrofa,4/23/2009,Male,269.15
+681,African black crake,Limnocorax flavirostra,12/7/2003,Male,328.11
+682,African black crake,Limnocorax flavirostra,6/14/2007,Female,400.25
+683,Buttermilk snake,Coluber constrictor,7/18/1994,Male,778.2
+684,"Sandgrouse, yellow-throated",Pterocles gutturalis,2/19/2014,Male,335.01
+685,"Gorilla, western lowland",Gorilla gorilla,11/3/2002,Male,850.11
+686,Slender-billed cockatoo,Cacatua tenuirostris,12/29/1998,Male,938.49
+687,"Stork, painted",Mycteria leucocephala,10/21/2007,Male,749.61
+688,Eagle owl (unidentified),Bubo sp.,3/2/2013,Male,59.33
+689,Western bearded dragon,Amphibolurus barbatus,2/8/2022,Male,412.4
+690,South African hedgehog,Erinaceus frontalis,12/1/2012,Male,230.61
+691,Dassie,Dendrohyrax brucel,9/6/2021,Female,827.62
+692,Sacred ibis,Threskionis aethiopicus,7/22/2017,Female,451.49
+693,Dromedary camel,Camelus dromedarius,4/17/2012,Male,244.89
+694,Bush dog,Speothos vanaticus,2/24/2014,Male,288.2
+695,Cheetah,Acinynox jubatus,5/21/2023,Male,744.92
+696,Tawny eagle,Anitibyx armatus,9/17/1995,Male,789.52
+697,Antelope ground squirrel,Ammospermophilus nelsoni,7/19/1992,Female,582.65
+698,"Otter, brazilian",Pteronura brasiliensis,6/7/2011,Female,21.12
+699,"Flamingo, roseat",Phoenicopterus ruber,3/24/2009,Male,799.97
+700,American badger,Taxidea taxus,3/13/1997,Male,757.72
+701,Sea birds (unidentified),unavailable,6/27/1991,Male,360.86
+702,Red-necked phalarope,Phalaropus lobatus,10/29/2022,Female,323.68
+703,"Squirrel, african bush",Paraxerus cepapi,6/3/2009,Male,412.52
+704,Thirteen-lined squirrel,Spermophilus tridecemlineatus,11/6/2001,Male,791.43
+705,Pine snake (unidentified),Pituophis melanaleucus,6/22/2016,Female,485.72
+706,Flightless cormorant,Nannopterum harrisi,1/1/1994,Male,968.85
+707,"Cat, cape wild",Felis libyca,7/11/2001,Female,993.25
+708,Canada goose,Branta canadensis,4/8/2017,Male,115.39
+709,"Pie, indian tree",Dendrocitta vagabunda,10/22/2009,Male,315.37
+710,Little heron,Butorides striatus,10/22/2017,Female,813.55
+711,"Kookaburra, laughing",Dacelo novaeguineae,4/12/2006,Male,821.42
+712,Wattled crane,Bugeranus caruncalatus,5/1/2000,Female,519.55
+713,"Tern, arctic",Sterna paradisaea,1/22/2002,Male,81.44
+714,White-mantled colobus,Colobus guerza,10/15/2018,Female,84.68
+715,Indian peacock,Pavo cristatus,10/4/1998,Female,206.34
+716,"Bleu, blue-breasted cordon",Uraeginthus angolensis,2/7/2019,Male,468.73
+717,Blue shark,Prionace glauca,3/1/2009,Male,306.62
+718,Bushbuck,Tragelaphus scriptus,2/15/2016,Male,378.26
+719,Magnificent frigate bird,Fregata magnificans,8/31/2000,Male,297.96
+720,Woodrat (unidentified),Neotoma sp.,7/15/2023,Female,610.67
+721,"Weaver, chestnut",Ploceus rubiginosus,12/27/2001,Female,478.17
+722,Radiated tortoise,Geochelone radiata,1/24/2010,Female,750.13
+723,"Flamingo, greater",Phoenicopterus ruber,10/17/2003,Female,832.6
+724,"Wallaby, red-necked",Macropus rufogriseus,1/27/2018,Female,405.81
+725,Eurasian hoopoe,Upupa epops,2/20/1990,Female,330.0
+726,Red and blue macaw,Ara chloroptera,4/9/1990,Female,661.78
+727,Native cat,Dasyurus viverrinus,11/4/2009,Male,603.07
+728,Red meerkat,Cynictis penicillata,2/5/1999,Male,330.77
+729,Square-lipped rhinoceros,Ceratotherium simum,10/17/1993,Female,783.49
+730,Huron,Galictis vittata,9/24/1994,Female,100.54
+731,Common boubou shrike,Laniarius ferrugineus,1/6/1993,Female,171.11
+732,Richardson's ground squirrel,Spermophilus richardsonii,9/21/2021,Male,28.86
+733,Striated heron,Butorides striatus,12/30/2007,Female,806.96
+734,"Fox, pampa gray",Pseudalopex gymnocercus,7/23/2006,Female,290.17
+735,"Crab, sally lightfoot",Graspus graspus,7/17/1991,Female,71.02
+736,Oriental short-clawed otter,Aonyx cinerea,4/12/2024,Female,59.87
+737,Violet-crested turaco,Tauraco porphyrelophus,3/30/1992,Male,285.63
+738,"Jaeger, long-tailed",Stercorarius longicausus,5/2/1995,Female,6.32
+739,Greater blue-eared starling,Lamprotornis chalybaeus,10/12/2006,Female,544.32
+740,"Booby, blue-footed",Sula nebouxii,9/28/2012,Female,826.87
+741,Crested screamer,Chauna torquata,10/19/2021,Female,159.34
+742,"Lion, mountain",Felis concolor,11/6/2024,Male,146.46
+743,"Bird, pied butcher",Cracticus nigroagularis,11/12/2010,Female,923.77
+744,Yellow-headed caracara,Milvago chimachima,4/3/2010,Female,942.16
+745,"Fox, blue",Alopex lagopus,7/3/2024,Female,809.89
+746,"Bird, pied butcher",Cracticus nigroagularis,7/30/1993,Female,985.65
+747,Huron,Galictis vittata,1/16/1992,Female,126.0
+748,"Wolf, mexican",Canis lupus baileyi,8/30/2005,Male,29.73
+749,Paradoxure,Paradoxurus hermaphroditus,8/1/2014,Female,530.05
+750,Onager,Equus hemionus,11/7/2010,Female,961.1
+751,"Whale, baleen",Eubalaena australis,6/5/2016,Female,315.61
+752,"Spoonbill, european",Platalea leucordia,4/18/2017,Male,813.1
+753,"Capuchin, white-fronted",Cebus albifrons,1/15/1996,Male,305.94
+754,"Sunbird, lesser double-collared",Nectarinia chalybea,10/25/2007,Female,538.53
+755,Red deer,Cervus elaphus,9/11/1997,Male,67.9
+756,Emerald-spotted wood dove,Turtur chalcospilos,1/14/2012,Female,159.2
+757,"Viper, egyptian",Naja haje,8/24/1993,Male,774.24
+758,"Tern, white-winged black",Chlidonias leucopterus,1/15/2017,Female,389.48
+759,Carmine bee-eater,Merops nubicus,5/20/2004,Female,485.11
+760,African lion,Panthera leo,12/24/2005,Female,746.78
+761,"Bee-eater, white-fronted",Merops bullockoides,8/15/2016,Male,65.68
+762,Magellanic penguin,Spheniscus magellanicus,3/13/2015,Male,11.49
+763,Galapagos mockingbird,Nesomimus trifasciatus,9/28/1996,Female,571.57
+764,Australian spiny anteater,Tachyglossus aculeatus,10/27/2007,Male,400.02
+765,Bat-eared fox,Otocyon megalotis,4/16/2024,Female,532.6
+766,Sea birds (unidentified),unavailable,7/18/2015,Female,113.43
+767,"Nighthawk, common",Chordeiles minor,2/27/1990,Male,93.02
+768,"Lion, southern sea",Otaria flavescens,2/25/2000,Male,512.78
+769,"Bird, bare-faced go away",Lorythaixoides concolor,9/3/1996,Female,861.22
+770,"Wapiti, elk,",Cervus canadensis,1/14/2023,Male,386.02
+771,"Gull, silver",Larus novaehollandiae,12/20/2008,Male,763.76
+772,"Gnu, brindled",Connochaetus taurinus,3/23/1995,Male,807.33
+773,Butterfly (unidentified),unavailable,11/17/2009,Male,552.59
+774,Comb duck,Sarkidornis melanotos,9/14/2009,Female,696.77
+775,"Otter, cape clawless",Aonyx capensis,1/28/1995,Female,411.52
+776,Square-lipped rhinoceros,Ceratotherium simum,7/14/2008,Female,214.72
+777,Galapagos hawk,Buteo galapagoensis,9/4/2008,Female,122.67
+778,Vine snake (unidentified),Oxybelis sp.,12/29/1991,Female,851.1
+779,Red-breasted cockatoo,Eolophus roseicapillus,11/3/1997,Male,76.5
+780,Sociable weaver,Philetairus socius,8/13/2018,Male,956.34
+781,Lizard (unidentified),unavailable,8/10/2018,Female,792.14
+782,"Elephant, african",Loxodonta africana,1/14/2013,Female,615.65
+783,Cape white-eye,Zosterops pallidus,9/8/2003,Female,931.39
+784,"Gecko, ring-tailed",Cyrtodactylus louisiadensis,4/21/2021,Male,305.8
+785,Squirrel glider,Petaurus norfolcensis,1/1/1995,Male,224.79
+786,Snake-necked turtle,Chelodina longicollis,10/7/1998,Female,195.05
+787,"Langur, hanuman",Semnopithecus entellus,10/12/2007,Female,789.42
+788,Coqui partridge,Francolinus coqui,4/15/2019,Male,384.46
+789,"Raccoon, crab-eating",Procyon cancrivorus,7/26/2000,Female,674.88
+790,"Mynah, indian",Acridotheres tristis,4/2/1991,Male,789.98
+791,Crimson-breasted shrike,Laniaurius atrococcineus,8/3/2014,Female,502.42
+792,"Lion, steller sea",Eumetopias jubatus,11/12/2004,Female,31.16
+793,Striped hyena,Hyaena hyaena,3/21/1990,Male,912.57
+794,Mexican boa,Boa constrictor mexicana,4/7/2013,Male,761.29
+795,Emerald-spotted wood dove,Turtur chalcospilos,10/22/2002,Male,852.47
+796,"Butterfly, canadian tiger swallowtail",Papilio canadensis,4/20/2001,Male,801.92
+797,"Kingfisher, white-throated",Halcyon smyrnesis,7/10/2002,Female,492.07
+798,Marine iguana,Amblyrhynchus cristatus,7/23/1993,Male,864.54
+799,"Vulture, oriental white-backed",Gyps bengalensis,11/24/1992,Female,446.42
+800,Hoary marmot,Marmota caligata,2/19/2004,Male,222.66
+801,"Glider, sugar",Petaurus breviceps,9/7/1995,Female,697.08
+802,"Cockatoo, long-billed",Cacatua tenuirostris,1/13/1996,Female,621.46
+803,American woodcock,Scolopax minor,10/31/1995,Female,79.45
+804,Alpaca,Lama pacos,11/17/2010,Male,978.4
+805,Bat-eared fox,Otocyon megalotis,12/18/1990,Male,699.98
+806,"Mongoose, yellow",Cynictis penicillata,10/21/2021,Female,128.71
+807,"Cockatoo, slender-billed",Cacatua tenuirostris,9/17/2013,Female,395.78
+808,Mountain goat,Oreamnos americanus,3/24/1994,Male,973.64
+809,"Lion, california sea",Zalophus californicus,11/25/2009,Male,781.14
+810,African clawless otter,Aonyx capensis,2/13/1999,Male,505.93
+811,Lily trotter,Actophilornis africanus,11/11/2005,Male,849.42
+812,"Phascogale, brush-tailed",Phascogale tapoatafa,5/17/2004,Male,461.99
+813,"Coot, red-knobbed",Fulica cristata,3/26/2005,Female,911.1
+814,Indian mynah,Acridotheres tristis,12/2/2003,Female,592.63
+815,"Mouse, four-striped grass",Rhabdomys pumilio,2/16/2010,Female,102.18
+816,American black bear,Ursus americanus,6/10/2024,Male,367.77
+817,North American beaver,Castor canadensis,3/28/2019,Female,285.7
+818,Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,5/10/2024,Female,532.56
+819,Bohor reedbuck,Redunca redunca,6/2/2022,Male,522.33
+820,Greater flamingo,Phoenicopterus ruber,7/20/2007,Female,0.55
+821,White-mantled colobus,Colobus guerza,9/28/2012,Female,678.12
+822,White-faced whistling duck,Dendrocygna viduata,10/29/2019,Female,962.91
+823,"Wallaby, bennett's",Macropus rufogriseus,11/12/2012,Female,354.99
+824,"Heron, goliath",Ardea golieth,7/20/2000,Male,97.11
+825,Suricate,Suricata suricatta,4/24/2002,Male,343.73
+826,Curve-billed thrasher,Toxostoma curvirostre,1/11/1993,Male,493.3
+827,Chital,Axis axis,7/23/1991,Female,849.86
+828,Masked booby,Sula dactylatra,8/9/2006,Female,902.49
+829,Common dolphin,Delphinus delphis,2/21/2017,Female,133.99
+830,Levaillant's barbet,Trachyphonus vaillantii,3/26/2002,Female,603.56
+831,"Monkey, bleeding heart",Theropithecus gelada,11/21/2018,Female,152.03
+832,Red and blue macaw,Ara chloroptera,5/13/2015,Female,472.34
+833,Black-crowned crane,Balearica pavonina,5/18/2007,Female,167.07
+834,Ornate rock dragon,Ctenophorus ornatus,11/25/2024,Female,599.42
+835,"Cockatoo, slender-billed",Cacatua tenuirostris,8/23/2002,Male,725.69
+836,Spotted hyena,Crocuta crocuta,10/10/2018,Female,396.72
+837,"Weaver, white-browed sparrow",Plocepasser mahali,7/28/1997,Male,388.66
+838,White-nosed coatimundi,Nasua narica,1/28/2001,Female,706.0
+839,"Bird, red-billed tropic",Phaethon aethereus,12/28/2015,Female,28.17
+840,Green-winged trumpeter,Psophia viridis,1/8/2019,Female,400.28
+841,Springbuck,Antidorcas marsupialis,3/25/2004,Female,893.93
+842,Malabar squirrel,Ratufa indica,7/16/1991,Female,995.35
+843,Salmon pink bird eater tarantula,Lasiodora parahybana,1/13/1992,Female,192.34
+844,Long-necked turtle,Chelodina longicollis,5/2/2019,Female,995.79
+845,Bat-eared fox,Otocyon megalotis,12/16/2003,Female,95.37
+846,American bison,Bison bison,8/16/1997,Female,902.64
+847,"Racer, american",Coluber constrictor,10/7/1990,Female,885.35
+848,"Pigeon, wood",Columba palumbus,5/10/1997,Female,862.18
+849,Crab (unidentified),unavailable,10/13/1999,Female,77.17
+850,Springbuck,Antidorcas marsupialis,4/11/2023,Female,346.5
+851,Emu,Dromaeus novaehollandiae,9/19/2011,Female,779.82
+852,Mocking cliffchat,Thamnolaea cinnmomeiventris,8/1/2024,Female,367.04
+853,Mountain lion,Felis concolor,8/29/2010,Female,98.38
+854,Great egret,Casmerodius albus,11/7/1994,Male,581.97
+855,"Bee-eater, carmine",Merops nubicus,8/28/2008,Male,44.67
+856,Tammar wallaby,Macropus eugenii,10/8/2020,Male,507.17
+857,"Eagle, golden",Aquila chrysaetos,5/12/1991,Female,463.99
+858,Collared peccary,Tayassu tajacu,1/30/2018,Female,992.39
+859,Wattled crane,Bugeranus caruncalatus,11/28/1990,Female,576.5
+860,Great horned owl,Bubo virginianus,9/24/1998,Male,813.83
+861,Black curlew,Haematopus ater,1/31/2008,Female,561.46
+862,"Waxbill, blue",Uraeginthus angolensis,2/23/1992,Male,67.93
+863,South American sea lion,Otaria flavescens,5/2/2023,Male,717.33
+864,Two-toed tree sloth,Choloepus hoffmani,2/4/2011,Female,954.28
+865,Mara,Dolichitus patagonum,6/15/2020,Male,928.12
+866,"Fox, north american red",Vulpes vulpes,7/6/1991,Female,95.31
+867,"Roadrunner, greater",Geococcyx californianus,11/11/2012,Female,819.88
+868,Guerza,Colobus guerza,9/9/1997,Female,333.53
+869,"Deer, savannah",Mazama gouazoubira,2/6/2000,Male,667.91
+870,South American puma,Felis concolor,11/27/1996,Male,544.34
+871,Grizzly bear,Ursus arctos,2/27/2015,Female,234.29
+872,Yellow mongoose,Cynictis penicillata,11/14/2006,Male,530.19
+873,Turkey vulture,Cathartes aura,9/1/2004,Female,658.4
+874,Comb duck,Sarkidornis melanotos,10/2/1993,Male,824.46
+875,Nelson ground squirrel,Ammospermophilus nelsoni,12/18/2012,Male,334.84
+876,Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,1/3/2019,Male,767.76
+877,"Rat, arboral spiny",Echimys chrysurus,7/10/2003,Male,380.39
+878,"Racer, blue",Coluber constrictor foxii,8/16/1998,Female,646.67
+879,African buffalo,Snycerus caffer,2/4/1994,Female,186.24
+880,"Turkey, common",Meleagris gallopavo,11/2/1999,Female,41.29
+881,"Whale, baleen",Eubalaena australis,12/2/2009,Female,381.37
+882,"Squirrel, golden-mantled ground",Spermophilus lateralis,4/27/2019,Male,270.6
+883,"Jackal, black-backed",Canis mesomelas,1/22/1992,Male,744.36
+884,"Dove, rock",Columba livia,3/14/2013,Female,364.11
+885,Western bearded dragon,Amphibolurus barbatus,11/4/2016,Female,760.38
+886,"Squirrel, antelope ground",Ammospermophilus nelsoni,8/1/1990,Male,318.1
+887,Savanna fox,Dusicyon thous,3/19/2012,Male,588.79
+888,Salmon pink bird eater tarantula,Lasiodora parahybana,6/20/2001,Male,945.75
+889,Red-winged hawk (unidentified),unavailable,12/29/1993,Female,906.83
+890,"Heron, green-backed",Butorides striatus,8/16/2022,Male,895.28
+891,Australian sea lion,Neophoca cinerea,8/16/1993,Female,227.2
+892,Oriental white-backed vulture,Gyps bengalensis,6/4/2024,Female,465.13
+893,"Hornbill, southern ground",Bucorvus leadbeateri,12/14/1995,Male,472.54
+894,"Squirrel, richardson's ground",Spermophilus richardsonii,1/15/1994,Female,348.15
+895,Pampa gray fox,Pseudalopex gymnocercus,9/2/2019,Female,587.08
+896,"Macaque, rhesus",Macaca mulatta,10/16/2016,Female,780.15
+897,"Curlew, black",Haematopus ater,5/10/1990,Female,776.94
+898,Vervet monkey,Cercopithecus aethiops,3/28/1999,Male,514.72
+899,"Fox, crab-eating",Dusicyon thous,8/24/2017,Male,100.68
+900,Chimpanzee,Pan troglodytes,1/13/1994,Male,607.47
+901,Southern white-crowned shrike,Eurocephalus anguitimens,8/12/2018,Female,680.78
+902,Sulfur-crested cockatoo,Cacatua galerita,1/10/2000,Female,40.5
+903,Gemsbok,Oryx gazella,12/14/2015,Female,922.88
+904,Vine snake (unidentified),Oxybelis sp.,12/5/1994,Female,463.06
+905,Lava gull,Larus fuliginosus,8/15/2012,Female,577.45
+906,"Egret, great",Casmerodius albus,10/4/2023,Female,885.07
+907,Tawny frogmouth,Podargus strigoides,9/5/2024,Male,860.59
+908,"Flamingo, greater",Phoenicopterus ruber,10/11/2003,Female,610.12
+909,Laughing dove,Streptopelia senegalensis,2/14/2020,Female,893.87
+910,"Kangaroo, red",Macropus rufus,3/18/2023,Male,170.87
+911,"Rabbit, eastern cottontail",Sylvilagus floridanus,9/25/2023,Female,443.62
+912,"Coot, red-knobbed",Fulica cristata,4/21/2006,Male,678.75
+913,"Crake, african black",Limnocorax flavirostra,8/1/2000,Female,665.12
+914,Flying fox (unidentified),unavailable,2/8/1991,Male,266.14
+915,Boat-billed heron,Cochlearius cochlearius,8/12/2006,Female,624.14
+916,"Ass, asiatic wild",Equus hemionus,2/1/1995,Male,818.3
+917,"Lemur, grey mouse",Microcebus murinus,12/31/2015,Male,738.56
+918,"Fox, crab-eating",Dusicyon thous,8/28/2019,Female,474.08
+919,Blue-tongued skink,Tiliqua scincoides,6/24/1993,Male,773.56
+920,Kafue flats lechwe,Kobus leche robertsi,11/28/1998,Female,284.51
+921,Impala,Aepyceros mylampus,2/19/1997,Male,862.51
+922,"Macaw, scarlet",Ara macao,11/13/1992,Female,243.84
+923,"Raven, cape",Corvus albicollis,11/7/2019,Male,521.71
+924,Orca,Orcinus orca,6/25/2019,Male,379.84
+925,Bald eagle,Haliaeetus leucocephalus,4/28/2018,Female,389.99
+926,"Crane, blue",Anthropoides paradisea,3/2/2012,Male,82.54
+927,"Gazer, sun",Cordylus giganteus,2/25/2019,Male,633.16
+928,"Cormorant, neotropic",Phalacrocorax brasilianus,11/18/2012,Female,85.63
+929,Flying fox (unidentified),unavailable,2/22/2009,Female,978.7
+930,Ibex,Capra ibex,3/14/2018,Male,711.98
+931,"Vulture, oriental white-backed",Gyps bengalensis,5/28/1997,Female,426.35
+932,"Otter, oriental short-clawed",Aonyx cinerea,3/16/2010,Female,513.94
+933,"Tern, royal",Thalasseus maximus,9/28/2001,Male,861.32
+934,Indian peacock,Pavo cristatus,10/20/1990,Male,129.73
+935,Coqui francolin,Francolinus coqui,1/1/2012,Male,66.77
+936,Ornate rock dragon,Ctenophorus ornatus,11/4/2021,Male,648.42
+937,"Skink, african",Mabuya spilogaster,5/22/2021,Male,5.2
+938,Small-clawed otter,Aonyx cinerea,1/15/2000,Male,385.53
+939,"Antechinus, brown",Antechinus flavipes,7/17/2004,Male,896.16
+940,"Boa, cook's tree",Corallus hortulanus cooki,6/4/1994,Male,822.31
+941,Springbuck,Antidorcas marsupialis,11/21/2015,Female,976.65
+942,"Crane, wattled",Bugeranus caruncalatus,4/8/1990,Male,625.54
+943,"Phalarope, grey",Phalaropus fulicarius,5/10/2014,Female,949.7
+944,Yellow-crowned night heron,Nyctanassa violacea,3/27/2009,Male,562.64
+945,"Heron, green",Butorides striatus,1/10/2014,Female,620.02
+946,Emerald green tree boa,Boa caninus,6/27/2023,Male,548.25
+947,American woodcock,Scolopax minor,1/29/2019,Female,98.8
+948,Red-billed tropic bird,Phaethon aethereus,3/17/2002,Female,150.73
+949,Brolga crane,Grus rubicundus,4/25/2020,Female,668.59
+950,"Gull, pacific",Gabianus pacificus,1/16/2020,Female,118.65
+951,Potoroo,Potorous tridactylus,7/3/2019,Female,358.09
+952,Prehensile-tailed porcupine,Coendou prehensilis,3/25/1994,Male,608.57
+953,"Racer, blue",Coluber constrictor foxii,5/2/2012,Male,248.54
+954,"Dragonfly, russian",Libellula quadrimaculata,10/22/2017,Female,827.59
+955,"Weaver, white-browed sparrow",Plocepasser mahali,12/17/2014,Female,642.51
+956,"Boa, cook's tree",Corallus hortulanus cooki,12/8/2011,Female,580.88
+957,"Rattlesnake, dusky",Crotalus triseriatus,9/12/2005,Male,93.59
+958,Red-tailed cockatoo,Calyptorhynchus magnificus,10/16/2008,Female,912.67
+959,"Rat, white-faced tree",Echimys chrysurus,12/10/1998,Female,527.69
+960,"Hornbill, southern ground",Bucorvus leadbeateri,8/24/1999,Female,768.24
+961,"Rhea, common",Rhea americana,8/19/2001,Female,669.15
+962,Savannah deer,Mazama gouazoubira,3/3/2016,Male,246.92
+963,"Crane, sandhill",Grus canadensis,10/20/2006,Female,179.79
+964,Greater sage grouse,Centrocercus urophasianus,12/23/2012,Female,356.53
+965,Crowned eagle,Spizaetus coronatus,9/30/1995,Female,22.27
+966,Three-banded plover,Charadrius tricollaris,8/12/1998,Female,732.57
+967,"Hartebeest, red",Alcelaphus buselaphus caama,9/19/2001,Male,915.75
+968,Black-backed magpie,Gymnorhina tibicen,6/17/2017,Male,642.08
+969,"Rhea, common",Rhea americana,4/20/2003,Female,566.78
+970,"Baboon, savanna",Papio cynocephalus,10/23/2000,Male,575.38
+971,"Flycatcher, tyrant",Myiarchus tuberculifer,5/18/2008,Male,664.43
+972,"Starling, superb",Lamprotornis superbus,4/16/2016,Female,612.66
+973,Levaillant's barbet,Trachyphonus vaillantii,7/18/2002,Female,927.57
+974,"Wallaby, bennett's",Macropus rufogriseus,11/18/2014,Female,588.36
+975,"Heron, gray",Ardea cinerea,2/14/1999,Male,942.43
+976,King vulture,Sarcorhamphus papa,7/12/2000,Female,986.7
+977,Ring-tailed lemur,Lemur catta,3/19/2001,Male,568.05
+978,Striated heron,Butorides striatus,5/2/2000,Male,362.96
+979,Anaconda (unidentified),Eunectes sp.,9/28/2019,Male,507.38
+980,Harbor seal,Phoca vitulina,11/10/1999,Female,496.39
+981,Amazon parrot (unidentified),Amazona sp.,9/11/2005,Female,455.85
+982,Tasmanian devil,Sarcophilus harrisii,6/16/1992,Female,211.5
+983,"Whale, long-finned pilot",Globicephala melas,3/31/2001,Female,298.83
+984,Nyala,Tragelaphus angasi,3/19/2022,Female,81.91
+985,Roe deer,Capreolus capreolus,4/17/2005,Male,290.44
+986,"Turtle, snake-necked",Chelodina longicollis,7/14/1991,Female,404.88
+987,Peregrine falcon,Falco peregrinus,4/1/2009,Male,506.82
+988,"Lion, california sea",Zalophus californicus,7/15/2002,Female,887.97
+989,"Tortoise, indian star",Geochelone elegans,3/3/2024,Male,812.82
+990,"Screamer, crested",Chauna torquata,11/18/2022,Female,835.77
+991,"Wallaby, euro",Macropus robustus,12/1/2012,Female,662.13
+992,"Monkey, bleeding heart",Theropithecus gelada,8/16/2018,Female,267.01
+993,"Rat, white-faced tree",Echimys chrysurus,4/5/1992,Female,471.83
+994,Western grey kangaroo,Macropus fuliginosus,11/10/1996,Female,792.44
+995,"Heron, boat-billed",Cochlearius cochlearius,8/7/2003,Female,517.66
+996,"Magpie, australian",Gymnorhina tibicen,6/22/2005,Female,818.41
+997,"Goose, snow",Anser caerulescens,8/19/2001,Male,683.25
+998,"Peccary, collared",Tayassu tajacu,3/18/1999,Female,195.63
+999,Black-eyed bulbul,Pycnonotus barbatus,1/5/2013,Female,473.66
+1000,Eurasian hoopoe,Upupa epops,5/28/2024,Male,960.33

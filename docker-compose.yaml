@@ -13,7 +13,12 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - ./init-db:/docker-entrypoint-initdb.d
+      - ./Shlav1/createTables.sql:/docker-entrypoint-initdb.d/01_createTables.sql
+      - ./Shlav1/mockarooFiles/mockaroo_veterinarians.sql:/docker-entrypoint-initdb.d/02_mockaroo_veterinarians.sql
+      # NOTE: insertTables.sql must be run MANUALLY in pgAdmin
+      #        AFTER importing Animal data from MOCK_DATA.csv,
+      #        because MedicalVisit has foreign keys to both Animal and Veterinarian.
+      # - ./Shlav1/Programing/insertTables.sql:/docker-entrypoint-initdb.d/03_insertTables.sql
       - postgres_data:/var/lib/postgresql/data
     networks:
       - kids_network
