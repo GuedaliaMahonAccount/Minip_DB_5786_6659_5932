@@ -53,8 +53,8 @@ To visualize the end product, we used Google AI Studio in a Top-Down approach to
 Our database is designed to reflect the physical realities of a veterinary clinic, following standard relational design principles (normalized to at least 3NF).
 
 ### Entity Relationship Diagram (ERD)
-> 🖼️ *![ER Diagram](../screenshoots/erd.jpg)* ### Data Structure Diagram (DSD)
-> 🖼️ *![Data Structure Diagram](../screenshoots/dsd.jpg)* ---
+> 🖼️ *![ER Diagram](../screenshoots/erd.png)* ### Data Structure Diagram (DSD)
+> 🖼️ *![Data Structure Diagram](../screenshoots/dsd.png)* ---
 
 ## 4. Design Decisions & Architecture
 
