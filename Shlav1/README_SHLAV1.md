@@ -38,13 +38,13 @@ To visualize the end product, we used Google AI Studio in a Top-Down approach to
 
 **Live Prototype Link:** [VetCare AI Studio App](https://ai.studio/apps/ea7d4031-ccb2-46c7-b09e-0782118e6fed)
 
-> 🖼️ *![Dashboard View](../screenshoots/dashboard_screenshot.png)* > *Caption: The main dashboard summarizing daily clinic activity.*
+> 🖼️ *![Dashboard View](../screenshoots/shlav1/dashboard_screenshot.png)* > *Caption: The main dashboard summarizing daily clinic activity.*
 
-> 🖼️ *![Animal Management View](../screenshoots/animal_management_screenshot.png)* > *Caption: The interface for adding and managing animal profiles.*
+> 🖼️ *![Animal Management View](../screenshoots/shlav1/animal_management_screenshot.png)* > *Caption: The interface for adding and managing animal profiles.*
 
-> 🖼️ *![Veterinarian Management View](../screenshoots/veterinarian_management_screenshot.png)* > *Caption: The interface for adding and managing veterinarian profiles.*
+> 🖼️ *![Veterinarian Management View](../screenshoots/shlav1/veterinarian_management_screenshot.png)* > *Caption: The interface for adding and managing veterinarian profiles.*
 
-> 🖼️ *![Medical Visit View](../screenshoots/medical_visit_screenshot.png)* > *Caption: The interface for adding and managing medical visits.*
+> 🖼️ *![Medical Visit View](../screenshoots/shlav1/medical_visit_screenshot.png)* > *Caption: The interface for adding and managing medical visits.*
 
 ---
 
@@ -53,8 +53,8 @@ To visualize the end product, we used Google AI Studio in a Top-Down approach to
 Our database is designed to reflect the physical realities of a veterinary clinic, following standard relational design principles (normalized to at least 3NF).
 
 ### Entity Relationship Diagram (ERD)
-> 🖼️ *![ER Diagram](../screenshoots/erd.png)* ### Data Structure Diagram (DSD)
-> 🖼️ *![Data Structure Diagram](../screenshoots/dsd.png)* ---
+> 🖼️ *![ER Diagram](../screenshoots/shlav1/erd.png)* ### Data Structure Diagram (DSD)
+> 🖼️ *![Data Structure Diagram](../screenshoots/shlav1/dsd.png)* ---
 
 ## 4. Design Decisions & Architecture
 
@@ -70,15 +70,15 @@ To ensure a robust testing environment, the database was populated with realisti
 
 ### Method 1: Database Scripting / Code Generation (generate_series)
 We utilized advanced PostgreSQL scripting (`generate_series()` combined with `ARRAY` and `random()` logic) to programmatically generate large-scale datasets directly within the SQL engine. This was highly efficient for reaching the 20,000+ row requirement.
-> 🖼️ *![SQL Script Execution](../screenshoots/script_method_screenshot.png)* > *Caption: Executing programmatic inserts in pgAdmin.*
+> 🖼️ *![SQL Script Execution](../screenshoots/shlav1/script_method_screenshot.png)* > *Caption: Executing programmatic inserts in pgAdmin.*
 
 ### Method 2: External Data Generators (Mockaroo)
 For specialized textual data that requires realistic formatting (e.g., Veterinarian names, License Numbers), we used Mockaroo to generate high-fidelity test data, which was then exported as SQL insert statements.
-> 🖼️ *![Mockaroo Setup](../screenshoots/mockaroo_screenshot.png)* > *Caption: Configuring realistic data generation via Mockaroo.*
+> 🖼️ *![Mockaroo Setup](../screenshoots/shlav1/mockaroo_screenshot.png)* > *Caption: Configuring realistic data generation via Mockaroo.*
 
 ### Method 3: CSV Import via Python/pgAdmin
 Static lookup tables (such as Medication catalogs) were structured in CSV format. These were ingested into the database to accurately map active ingredients and expiration dates.
-> 🖼️ *![CSV Import](../screenshoots/csv_import_screenshot.png)* > *Caption: Importing structured CSV data into the database.*
+> 🖼️ *![CSV Import](../screenshoots/shlav1/csv_import_screenshot.png)* > *Caption: Importing structured CSV data into the database.*
 
 ---
 
@@ -88,11 +88,11 @@ To guarantee data integrity and allow for a complete system rebuild from scratch
 
 ### Backup Process
 The backup encapsulates both the **DDL** (schemas) and the **DML** (all generated records) in a single restorable file.
-> 🖼️ *![Backup Process](../screenshoots/backup_screenshot.png)* > *Caption: Initiating the database backup in pgAdmin.*
+> 🖼️ *![Backup Process](../screenshoots/shlav1/backup_screenshot.png)* > *Caption: Initiating the database backup in pgAdmin.*
 
 ### Restoration Test
 The environment—including all relationships, constraints, and the 20,000+ mock data rows—was successfully restored on a fresh instance to verify the integrity of the backup file.
-> 🖼️ *![Restoration Success](../screenshoots/restore_screenshot.png)* > *Caption: Confirmation of successful database restoration.*
+> 🖼️ *![Restoration Success](../screenshoots/shlav1/restore_screenshot.png)* > *Caption: Confirmation of successful database restoration.*
 
 ---
 

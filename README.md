@@ -19,3 +19,8 @@ docker-compose down -v
 ### 📋 Shlav 1 — Phase 1: Database Design & Population
 
 👉 [View the full Shlav 1 README](Shlav1/README_SHLAV1.md)
+
+
+### 📋 Shlav 2 — Phase 2: Database Design & Population
+
+👉 [View the full Shlav 2 README](Shlav2/README_SHLAV2.md)
