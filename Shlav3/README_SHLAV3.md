@@ -112,7 +112,7 @@ The ERD was created in ERDPlus based on the reverse engineering algorithm above.
 - **Assigned_Shift:** Employee ↔ Shift (M:N via Shift_Assignment, with attribute `work_date`)
 
 > 📸 **Screenshot: ERD of the HR system (ERDPlus)**
-> 🖼️ ![ERD of the HR system](../screenshoots/shlav3/erd_hr.png)
+> 🖼️ ![ERD of the HR system](../screenshoots/shlav3/erd_hr.jpeg)
 > *Caption: ERD of the HR system (ERDPlus)*
 
 ---
@@ -147,7 +147,7 @@ The ERD was created in ERDPlus based on the reverse engineering algorithm above.
 The combined ERD shows all entities from BOTH systems connected through the `employee_id` link in the `Veterinarian` table.
 
 > 📸 **Screenshot: Combined ERD (ERDPlus)**
-> 🖼️ ![Combined ERD](../screenshoots/shlav3/combined_erd.png)
+> 🖼️ ![Combined ERD](../screenshoots/shlav3/combined_erd.jpeg)
 > *Caption: Combined ERD (ERDPlus)*
 
 ---
