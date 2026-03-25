@@ -88,6 +88,20 @@ Full desktop GUI built with **Python + CustomTkinter + psycopg2**:
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Start the Database (Docker)
