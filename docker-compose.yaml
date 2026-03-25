@@ -11,7 +11,7 @@ services:
       POSTGRES_PASSWORD: ${DB_PASSWORD_SECRET}
       POSTGRES_DB: ${DB_NAME_SECRET}
     ports:
-      - "5432:5432"
+      - "5445:5432"
     volumes:
       - ./Shlav1/createTables.sql:/docker-entrypoint-initdb.d/01_createTables.sql
       - ./Shlav1/mockarooFiles/mockaroo_veterinarians.sql:/docker-entrypoint-initdb.d/02_mockaroo_veterinarians.sql

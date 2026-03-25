@@ -17,10 +17,12 @@ _THIS_DIR = os.path.dirname(os.path.abspath(__file__))   # always Shlav5/
 _PROJECT_ROOT = os.path.abspath(os.path.join(_THIS_DIR, ".."))
 load_dotenv(os.path.join(_PROJECT_ROOT, ".env"))
 
-# ── Connection configuration (can be overridden at runtime via DB_CONFIG) ──
+# ── Connection configuration ──────────────────────────────────────────
+# Forced to 127.0.0.1 (IPv4) instead of localhost (::1) for stability on Windows.
+# Default Port 5445 matches the updated docker-compose.yaml mapping.
 DB_CONFIG = {
-    "host":     os.getenv("DB_HOST",           "localhost"),
-    "port":     int(os.getenv("DB_PORT",       "5432")),
+    "host":     os.getenv("DB_HOST",           "127.0.0.1"),
+    "port":     int(os.getenv("DB_PORT",       "5445")),
     "dbname":   os.getenv("DB_NAME_SECRET",    "basnat"),
     "user":     os.getenv("DB_USER_SECRET",    "admin"),
     "password": os.getenv("DB_PASSWORD_SECRET","password"),
