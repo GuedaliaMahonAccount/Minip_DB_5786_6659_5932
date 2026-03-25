@@ -88,10 +88,11 @@ def _execute(query, params=None):
 
 def fetch_animals():
     q = """
-        SELECT animalid, name, species, birthdate, gender, weight,
-               COALESCE(total_visits, 0), last_visit_date
-        FROM animal
-        ORDER BY animalid
+        SELECT a.animalid, a.name, a.species, a.birthdate, a.gender, a.weight,
+               (SELECT COUNT(*) FROM medicalvisit mv WHERE mv.animalid = a.animalid) AS total_visits,
+               (SELECT MAX(mv.visitdate) FROM medicalvisit mv WHERE mv.animalid = a.animalid) AS last_visit
+        FROM animal a
+        ORDER BY a.animalid
     """
     return _fetch_all(q)
 
@@ -128,16 +129,14 @@ def delete_animal(animalid):
 
 def fetch_veterinarians():
     q = """
-        SELECT v.vetid,
-               v.firstname,
-               v.lastname,
-               v.licensenumber,
-               COALESCE(v.specialization, '—') AS specialization,
-               v.hiredate,
-               COALESCE(e.first_name || ' ' || e.last_name, '—') AS employee_name
-        FROM veterinarian v
-        LEFT JOIN employee e ON v.employee_id = e.employee_id
-        ORDER BY v.vetid
+        SELECT vetid,
+               firstname,
+               lastname,
+               licensenumber,
+               COALESCE(specialization, '—') AS specialization,
+               hiredate
+        FROM veterinarian
+        ORDER BY vetid
     """
     return _fetch_all(q)
 
@@ -182,8 +181,7 @@ def fetch_visits():
                v.firstname || ' ' || v.lastname    AS vet_name,
                mv.reason,
                LEFT(COALESCE(mv.summary, ''), 40)  AS summary,
-               mv.cost,
-               COALESCE(mv.status, 'Completed')    AS status
+               mv.cost
         FROM medicalvisit mv
         JOIN animal a        ON mv.animalid = a.animalid
         JOIN veterinarian v  ON mv.vetid    = v.vetid
@@ -205,26 +203,23 @@ def fetch_visit_by_id(visitid):
     return _fetch_one(q, (visitid,))
 
 
-def insert_visit(visitid, visitdate, reason, summary, cost, animalid, vetid, status):
+def insert_visit(visitid, visitdate, reason, summary, cost, animalid, vetid):
     q = """
-        INSERT INTO medicalvisit (visitid, visitdate, reason, summary, cost,
-                                  animalid, vetid, status)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO medicalvisit (visitid, visitdate, reason, summary, cost, animalid, vetid)
+        VALUES (%s, %s, %s, %s, %s, %s, %s)
     """
     _execute(q, (visitid, visitdate or None, reason, summary,
-                 cost or None, animalid, vetid, status or 'Completed'))
+                 cost or None, animalid, vetid))
 
 
-def update_visit(visitid, visitdate, reason, summary, cost, animalid, vetid, status):
+def update_visit(visitid, visitdate, reason, summary, cost, animalid, vetid):
     q = """
         UPDATE medicalvisit
-        SET visitdate=%s, reason=%s, summary=%s, cost=%s,
-            animalid=%s, vetid=%s, status=%s, last_updated=NOW()
+        SET visitdate=%s, reason=%s, summary=%s, cost=%s, animalid=%s, vetid=%s
         WHERE visitid=%s
     """
     _execute(q, (visitdate or None, reason, summary,
-                 cost or None, animalid, vetid,
-                 status or 'Completed', visitid))
+                 cost or None, animalid, vetid, visitid))
 
 
 def delete_visit(visitid):

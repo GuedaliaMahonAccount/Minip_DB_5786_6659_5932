@@ -24,9 +24,9 @@ Build a fully functional **desktop GUI** using Python + CustomTkinter connected 
 | GUI Framework | **CustomTkinter 5.x** | Dark-mode desktop widgets |
 | DB Connector | **psycopg2** | PostgreSQL communication |
 | Environment | **python-dotenv** | Loads `.env` credentials |
-| Database | **PostgreSQL 17.1** | Runs in Docker on port **5432** |
+| Database | **PostgreSQL 17.1** | Runs in Docker on port **5445** (mapped from container 5432) |
 
-> **Important:** Port 8080 is pgAdmin (the web interface). The actual PostgreSQL database is always on port **5432**.
+> **Important:** Port 8080 is pgAdmin (the web interface). The PostgreSQL database is exposed on **port 5445** on the host (Docker maps 5445 → 5432 inside the container).
 
 ### Architecture
 
@@ -56,8 +56,8 @@ py app.py
 
 ### 3. If connection fails
 Click **⚙️ Connection Settings** on the welcome screen and enter:
-- Host: `localhost`
-- Port: `5432`
+- Host: `127.0.0.1`
+- Port: `5445`
 - Database: `basnat`
 - User: `admin`
 - Password: `password`
@@ -134,12 +134,15 @@ Click **⚙️ Connection Settings** on the welcome screen and enter:
 
 | Requirement | Status | Implementation |
 |------------|--------|---------------|
-| Full CRUD on core tables | ✅ | 6 tabs in `app.py` → `db.py` |
-| UPDATE requires Fetch-by-PK first | ✅ | `_on_fetch()` sets `editing_pk`; `_on_update()` checks it |
-| Foreign keys hidden from user | ✅ | JOIN queries in `db.py`; Combobox dropdowns in form |
-| 2 Stage 2 SELECT queries | ✅ | Top 10 Animals + Monthly Revenue by Specialization |
-| 2 Stage 4 PL/pgSQL routines | ✅ | `fn_get_animal_medical_summary` + `sp_transfer_animal_visits` |
-| Clean UI with navigation | ✅ | Welcome → CRUD / Advanced (separate pages) |
+| CRUD on all VetCare core tables (6) | ✅ | Animals, Vets, Visits, Treatments, Medications, Vaccinations |
+| CRUD on HR system tables (Stage 3) | ✅ | HR: Employees + HR: Departments tabs in `app.py` |
+| UPDATE requires Fetch-by-PK first | ✅ | `_on_fetch()` sets `editing_pk`; `_on_update()` uses `editing_pk` (not raw field) |
+| Foreign keys hidden — names via JOINs | ✅ | `fetch_visits()` JOINs Animal+Vet; Combobox dropdowns; Employee→Dept name |
+| Input validation + error messages | ✅ | All CRUD actions validate numeric ID; all errors shown via `messagebox` |
+| ≥ 2 Stage 2 SELECT queries | ✅ | Top 10 Animals (Simple Q1) + Monthly Revenue by Specialization (Double Q4 CTE) |
+| ≥ 2 Stage 4 PL/pgSQL routines | ✅ | `fn_get_animal_medical_summary` (Function) + `sp_transfer_animal_visits` (Procedure) |
+| Complete function result display | ✅ | Shows Name, Species, Total Visits, Total Cost, Avg Cost, Last Visit, Health Status |
+| Clean UI with navigation | ✅ | Welcome → CRUD / Advanced (separate pages, Back button) |
 
 ---
 
@@ -147,10 +150,10 @@ Click **⚙️ Connection Settings** on the welcome screen and enter:
 
 ```
 Shlav5/
-├── app.py               # GUI (CustomTkinter — ~530 lines)
-├── db.py                # Database layer (psycopg2 + SQL)
-├── requirements.txt     # Dependencies
-└── README_SHLAV5.md     # This file
+├── app.py               # GUI (CustomTkinter — 8 CRUD tabs + 4 Advanced tabs)
+├── db.py                # Database layer (psycopg2 + SQL — all queries centralized)
+├── requirements.txt     # Python dependencies
+└── README_SHLAV5.md     # This file (setup, screenshots, checklist)
 ```
 
 ---

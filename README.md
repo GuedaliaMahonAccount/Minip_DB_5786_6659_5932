@@ -47,11 +47,10 @@ Full desktop GUI built with **Python + CustomTkinter + psycopg2**:
 
 👉 [View the full Shlav 5 README](Shlav5/README_SHLAV5.md)
 
-`[Insert Screenshot: Welcome screen of the GUI application]`
+![Welcome Screen](screenshoots/shlav5/welcome_screen.png)
+*Welcome screen — DB connection status indicator + navigation buttons*
 
-`[Insert Screenshot: CRUD tab showing data management with hidden foreign keys]`
-
-`[Insert Screenshot: Advanced Reports tab executing Stage 2 queries]`
+> 📸 See [Shlav5/README_SHLAV5.md](Shlav5/README_SHLAV5.md) for the full gallery of screenshots (CRUD tabs, FK resolution, Advanced Reports, function/procedure execution).
 
 ---
 
