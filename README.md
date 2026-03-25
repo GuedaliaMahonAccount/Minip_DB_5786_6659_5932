@@ -16,6 +16,21 @@ docker-compose up -d --build
 docker-compose down -v
 ```
 
+### 🔄 Database Restoration (Stage 3)
+To reset the database to the Stage 3 baseline before starting Stage 4:
+
+1. **Clean the database** (Run in pgAdmin Query Tool):
+   ```sql
+   DROP SCHEMA public CASCADE;
+   CREATE SCHEMA public;
+   ```
+
+2. **Restore from backup** (Run in your host terminal):
+   ```bash
+   cmd /c "type .\Shlav3\backup3.backup | docker exec -i PostgreSQL_DB psql -U admin -d basnat"
+   ```
+
+
 ### 📋 Shlav 1 — Phase 1: Database Design & Population
 
 👉 [View the full Shlav 1 README](Shlav1/README_SHLAV1.md)
@@ -29,3 +44,8 @@ docker-compose down -v
 ### 📋 Shlav 3 — Phase 3: Database Design & Population
 
 👉 [View the full Shlav 3 README](Shlav3/README_SHLAV3.md)
+
+
+### 📋 Shlav 4 — Phase 4: Database Design & Population
+
+👉 [View the full Shlav 4 README](Shlav4/README_SHLAV4.md)
