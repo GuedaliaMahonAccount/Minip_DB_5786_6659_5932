@@ -24,6 +24,11 @@ This project is the **Veterinary and Health Management Department** module of a 
 👉 [View the full Shlav 4 README](Shlav4/README_SHLAV4.md)
 
 
+### 📋 Shlav 5 — Phase 5: Database Design & Population
+
+👉 [View the full Shlav 5 README](Shlav5/README_SHLAV5.md)
+
+
 
 
 
