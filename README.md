@@ -4,6 +4,30 @@ This project is the **Veterinary and Health Management Department** module of a 
 
 ---
 
+### 📋 Shlav 1 — Phase 1: Database Design & Population
+
+👉 [View the full Shlav 1 README](Shlav1/README_SHLAV1.md)
+
+
+### 📋 Shlav 2 — Phase 2: Database Design & Population
+
+👉 [View the full Shlav 2 README](Shlav2/README_SHLAV2.md)
+
+
+### 📋 Shlav 3 — Phase 3: Database Design & Population
+
+👉 [View the full Shlav 3 README](Shlav3/README_SHLAV3.md)
+
+
+### 📋 Shlav 4 — Phase 4: Database Design & Population
+
+👉 [View the full Shlav 4 README](Shlav4/README_SHLAV4.md)
+
+
+
+
+
+
 ## 🚀 Quick Start
 
 To run the application using Docker Compose:
@@ -31,21 +55,12 @@ To reset the database to the Stage 3 baseline before starting Stage 4:
    ```
 
 
-### 📋 Shlav 1 — Phase 1: Database Design & Population
-
-👉 [View the full Shlav 1 README](Shlav1/README_SHLAV1.md)
 
 
-### 📋 Shlav 2 — Phase 2: Database Design & Population
 
-👉 [View the full Shlav 2 README](Shlav2/README_SHLAV2.md)
+### push the tag
 
-
-### 📋 Shlav 3 — Phase 3: Database Design & Population
-
-👉 [View the full Shlav 3 README](Shlav3/README_SHLAV3.md)
-
-
-### 📋 Shlav 4 — Phase 4: Database Design & Population
-
-👉 [View the full Shlav 4 README](Shlav4/README_SHLAV4.md)
+```bash
+git tag shlav5
+git push origin shlav5
+```
